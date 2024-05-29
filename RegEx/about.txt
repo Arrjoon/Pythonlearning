@@ -1,0 +1,17 @@
+\ Used to drop the special meaning of character following it
+
+[] Represent a character class
+
+^ mathces the begining 
+$ mathces the end
+. mathces any character except newline
+| means or (mathces with any of the character separated by it)
+? mathces zero or none occurance
+
+RegEx Functions
+
+findall---> Returns a list containing all mathces
+search---> Retruns a Match object if there is a match anywhere in the string
+split ----->Return a list wher ethe string has been split at each match
+sub ------>Replaces one or many mathces with a string
+
