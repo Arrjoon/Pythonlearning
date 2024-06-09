@@ -17,3 +17,5 @@ if __name__== "__main__":
 
     for i in range(len(arr)):
         print(arr[i])
+
+#Time complexity :O(n^2)

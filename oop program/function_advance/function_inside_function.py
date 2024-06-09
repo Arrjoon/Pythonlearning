@@ -7,3 +7,5 @@ def apply_function(func,value):
 
 a=apply_function(greeting,"Arjun")
 print(a)
+
+
