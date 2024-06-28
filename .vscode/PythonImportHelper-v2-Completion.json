@@ -1,0 +1,2359 @@
+[
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "array",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "array",
+        "description": "array",
+        "detail": "array",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "importPath": "audioop",
+        "description": "audioop",
+        "isExtraImport": true,
+        "detail": "audioop",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collection",
+        "description": "collection",
+        "isExtraImport": true,
+        "detail": "collection",
+        "documentation": {}
+    },
+    {
+        "label": "Events",
+        "importPath": "src.Events",
+        "description": "src.Events",
+        "isExtraImport": true,
+        "detail": "src.Events",
+        "documentation": {}
+    },
+    {
+        "label": "Events",
+        "importPath": "src.Events",
+        "description": "src.Events",
+        "isExtraImport": true,
+        "detail": "src.Events",
+        "documentation": {}
+    },
+    {
+        "label": "Events",
+        "importPath": "src.Events",
+        "description": "src.Events",
+        "isExtraImport": true,
+        "detail": "src.Events",
+        "documentation": {}
+    },
+    {
+        "label": "Events",
+        "importPath": "src.Events",
+        "description": "src.Events",
+        "isExtraImport": true,
+        "detail": "src.Events",
+        "documentation": {}
+    },
+    {
+        "label": "Events",
+        "importPath": "src.Events",
+        "description": "src.Events",
+        "isExtraImport": true,
+        "detail": "src.Events",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "NetworkingEvent",
+        "importPath": "src.NetworkingEvent",
+        "description": "src.NetworkingEvent",
+        "isExtraImport": true,
+        "detail": "src.NetworkingEvent",
+        "documentation": {}
+    },
+    {
+        "label": "NetworkingEvent",
+        "importPath": "src.NetworkingEvent",
+        "description": "src.NetworkingEvent",
+        "isExtraImport": true,
+        "detail": "src.NetworkingEvent",
+        "documentation": {}
+    },
+    {
+        "label": "PartyEvent",
+        "importPath": "src.PartyEvent",
+        "description": "src.PartyEvent",
+        "isExtraImport": true,
+        "detail": "src.PartyEvent",
+        "documentation": {}
+    },
+    {
+        "label": "PartyEvent",
+        "importPath": "src.PartyEvent",
+        "description": "src.PartyEvent",
+        "isExtraImport": true,
+        "detail": "src.PartyEvent",
+        "documentation": {}
+    },
+    {
+        "label": "WorkshopEvent",
+        "importPath": "src.WorkshopEvent",
+        "description": "src.WorkshopEvent",
+        "isExtraImport": true,
+        "detail": "src.WorkshopEvent",
+        "documentation": {}
+    },
+    {
+        "label": "WorkshopEvent",
+        "importPath": "src.WorkshopEvent",
+        "description": "src.WorkshopEvent",
+        "isExtraImport": true,
+        "detail": "src.WorkshopEvent",
+        "documentation": {}
+    },
+    {
+        "label": "CharityEvent",
+        "importPath": "src.CharityEvent",
+        "description": "src.CharityEvent",
+        "isExtraImport": true,
+        "detail": "src.CharityEvent",
+        "documentation": {}
+    },
+    {
+        "label": "CharityEvent",
+        "importPath": "src.CharityEvent",
+        "description": "src.CharityEvent",
+        "isExtraImport": true,
+        "detail": "src.CharityEvent",
+        "documentation": {}
+    },
+    {
+        "label": "Ticket",
+        "importPath": "src.Ticket",
+        "description": "src.Ticket",
+        "isExtraImport": true,
+        "detail": "src.Ticket",
+        "documentation": {}
+    },
+    {
+        "label": "Ticket",
+        "importPath": "src.Ticket",
+        "description": "src.Ticket",
+        "isExtraImport": true,
+        "detail": "src.Ticket",
+        "documentation": {}
+    },
+    {
+        "label": "Ticket",
+        "importPath": "src.Ticket",
+        "description": "src.Ticket",
+        "isExtraImport": true,
+        "detail": "src.Ticket",
+        "documentation": {}
+    },
+    {
+        "label": "Ticket",
+        "importPath": "src.Ticket",
+        "description": "src.Ticket",
+        "isExtraImport": true,
+        "detail": "src.Ticket",
+        "documentation": {}
+    },
+    {
+        "label": "PrettyTable",
+        "importPath": "prettytable",
+        "description": "prettytable",
+        "isExtraImport": true,
+        "detail": "prettytable",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "mock",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "DriverClass",
+        "importPath": "src",
+        "description": "src",
+        "isExtraImport": true,
+        "detail": "src",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "api.makingrequest",
+        "description": "api.makingrequest",
+        "peekOfCode": "response = requests.get(\"https://datausa.io/api/data?drilldowns=Nation&measures=Population\")\nprint(response.json())\nprint(\"Convert from string to object \")\nprint(response.json)",
+        "detail": "api.makingrequest",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "DSA.linkedlist.01_find_middle_linkedlist",
+        "description": "DSA.linkedlist.01_find_middle_linkedlist",
+        "peekOfCode": "class Node:\n    def __init__(self,x):\n        self.data =x\n        self.next=None\n#creating linkedlist\nclass Linkedlist:\n    def __init__(self):\n        self.head = None\n    #inseart at the begining\n    def Insert_at_begining(self,data):",
+        "detail": "DSA.linkedlist.01_find_middle_linkedlist",
+        "documentation": {}
+    },
+    {
+        "label": "Linkedlist",
+        "kind": 6,
+        "importPath": "DSA.linkedlist.01_find_middle_linkedlist",
+        "description": "DSA.linkedlist.01_find_middle_linkedlist",
+        "peekOfCode": "class Linkedlist:\n    def __init__(self):\n        self.head = None\n    #inseart at the begining\n    def Insert_at_begining(self,data):\n        if self.head is None:\n            new_node = Node(data)\n            self.head = new_node\n        else:\n            new_node = Node(data)",
+        "detail": "DSA.linkedlist.01_find_middle_linkedlist",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "DSA.linkedlist.01_linkedlist",
+        "description": "DSA.linkedlist.01_linkedlist",
+        "peekOfCode": "class Node:\n    def __init__(self,x):\n        self.data =x\n        self.next=None\n#creating linkedlist\nclass Linkedlist:\n    def __init__(self):\n        self.head = None\n    #inseart at the begining\n    def Insert_at_begining(self,data):",
+        "detail": "DSA.linkedlist.01_linkedlist",
+        "documentation": {}
+    },
+    {
+        "label": "Linkedlist",
+        "kind": 6,
+        "importPath": "DSA.linkedlist.01_linkedlist",
+        "description": "DSA.linkedlist.01_linkedlist",
+        "peekOfCode": "class Linkedlist:\n    def __init__(self):\n        self.head = None\n    #inseart at the begining\n    def Insert_at_begining(self,data):\n        if self.head is None:\n            new_node = Node(data)\n            self.head = new_node\n        else:\n            new_node = Node(data)",
+        "detail": "DSA.linkedlist.01_linkedlist",
+        "documentation": {}
+    },
+    {
+        "label": "queue",
+        "kind": 5,
+        "importPath": "DSA.Queue.01_problem",
+        "description": "DSA.Queue.01_problem",
+        "peekOfCode": "queue = []\nqueue.append('a')\nqueue.append('b')\nqueue.append('c')\nprint(\"Queue Before removing the queue\")\nprint(queue)\nqueue.pop(0)\nqueue.pop(0)\nqueue.pop(0)\nprint(\"\\n Queue After removing elements \")",
+        "detail": "DSA.Queue.01_problem",
+        "documentation": {}
+    },
+    {
+        "label": "binary_search",
+        "kind": 2,
+        "importPath": "DSA.Searching.binary_serach",
+        "description": "DSA.Searching.binary_serach",
+        "peekOfCode": "def binary_search(arr,target,low,high):\n    if low<=high:\n        mid=(low+high)//2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid]<target:\n            return binary_search(arr,target,mid+1,high)\n        else:\n            return binary_search(arr,target,low,mid-1)\n    else:",
+        "detail": "DSA.Searching.binary_serach",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "DSA.Searching.binary_serach",
+        "description": "DSA.Searching.binary_serach",
+        "peekOfCode": "result = binary_search(sorted(arr),target,0,len(arr)-1)\nif result != -1:\n    print(f\"Binary Serach :Element found at index {result}\")\nelse:\n    print(\"Binary Search :Element not found \")",
+        "detail": "DSA.Searching.binary_serach",
+        "documentation": {}
+    },
+    {
+        "label": "linear_search",
+        "kind": 2,
+        "importPath": "DSA.Searching.linear_Search",
+        "description": "DSA.Searching.linear_Search",
+        "peekOfCode": "def linear_search(arr, target):\n    \"\"\"\n    Perform linear search to find the target value in the given list.\n    Parameters:\n        arr (list): The list to be searched.\n        target: The value to be searched for.\n    Returns:\n        int: The index of the target value if found, otherwise -1.\n    \"\"\"\n    for i in range(len(arr)):",
+        "detail": "DSA.Searching.linear_Search",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "DSA.Searching.linear_Search",
+        "description": "DSA.Searching.linear_Search",
+        "peekOfCode": "arr = [2, 3, 4, 10, 40]\ntarget = 10\nresult = linear_search(arr, target)\nif result != -1:\n    print(f\"Linear Search: Element found at index {result}\")\nelse:\n    print(\"Linear Search: Element not found\")",
+        "detail": "DSA.Searching.linear_Search",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "DSA.Searching.linear_Search",
+        "description": "DSA.Searching.linear_Search",
+        "peekOfCode": "target = 10\nresult = linear_search(arr, target)\nif result != -1:\n    print(f\"Linear Search: Element found at index {result}\")\nelse:\n    print(\"Linear Search: Element not found\")",
+        "detail": "DSA.Searching.linear_Search",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "DSA.Searching.linear_Search",
+        "description": "DSA.Searching.linear_Search",
+        "peekOfCode": "result = linear_search(arr, target)\nif result != -1:\n    print(f\"Linear Search: Element found at index {result}\")\nelse:\n    print(\"Linear Search: Element not found\")",
+        "detail": "DSA.Searching.linear_Search",
+        "documentation": {}
+    },
+    {
+        "label": "bubbleSort",
+        "kind": 2,
+        "importPath": "DSA.Sorting.Bubble_sort",
+        "description": "DSA.Sorting.Bubble_sort",
+        "peekOfCode": "def bubbleSort(arr):\n    n=len(arr)\n    #For loop to traverse through all\n    #element in an array\n    for i in range(n):\n        for j in range(n-1-i):\n            if arr[j]>arr[j+1]:\n                arr[j],arr[j+1] = arr[j+1],arr[j]\nif __name__== \"__main__\":\n    arr=[3,4,2,45,23,9]",
+        "detail": "DSA.Sorting.Bubble_sort",
+        "documentation": {}
+    },
+    {
+        "label": "stack",
+        "kind": 5,
+        "importPath": "DSA.stack.02_implementing_list",
+        "description": "DSA.stack.02_implementing_list",
+        "peekOfCode": "stack = []\nstack.append('a')\nstack.append('b')\nstack.append('c')\nstack.append('d')\nprint(stack)\nprint(\"Elements pop from the stack:\")\nprint(stack.pop())\nprint(stack)",
+        "detail": "DSA.stack.02_implementing_list",
+        "documentation": {}
+    },
+    {
+        "label": "stack",
+        "kind": 5,
+        "importPath": "DSA.stack.03_implementing_collection",
+        "description": "DSA.stack.03_implementing_collection",
+        "peekOfCode": "stack = deque()\nstack.append('a')\nstack.append('b')\nstack.append('c')\nprint('initial stack')\nprint(stack)\nprint('\\Elements popped from stack:')\nprint(stack.pop())\nprint(stack.pop())\nprint(stack.pop())",
+        "detail": "DSA.stack.03_implementing_collection",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "DSA.stack.04_stack_implementation",
+        "description": "DSA.stack.04_stack_implementation",
+        "peekOfCode": "class Node:\n    def __init__(self,value):\n        self.value = value\n        self.next = None\nclass Stack:\n    def __init__(self):\n        self.head  = None(\"head\")\n        self.size=0\n    def __str__(self):\n        cur = self.head.next",
+        "detail": "DSA.stack.04_stack_implementation",
+        "documentation": {}
+    },
+    {
+        "label": "Stack",
+        "kind": 6,
+        "importPath": "DSA.stack.04_stack_implementation",
+        "description": "DSA.stack.04_stack_implementation",
+        "peekOfCode": "class Stack:\n    def __init__(self):\n        self.head  = None(\"head\")\n        self.size=0\n    def __str__(self):\n        cur = self.head.next\n        pot=\"\"",
+        "detail": "DSA.stack.04_stack_implementation",
+        "documentation": {}
+    },
+    {
+        "label": "balanced",
+        "kind": 2,
+        "importPath": "DSA.stack.05_problem",
+        "description": "DSA.stack.05_problem",
+        "peekOfCode": "def balanced(string):\n    stack =[]\n    for i in string:\n        if i in  [\"(\", \"{\", \"[\"]:\n            stack.append(i)\n        else:\n            if not stack:\n                return False\n            top_stack = stack.pop()\n            if top_stack=='(':",
+        "detail": "DSA.stack.05_problem",
+        "documentation": {}
+    },
+    {
+        "label": "balanced",
+        "kind": 2,
+        "importPath": "DSA.stack.06_braket",
+        "description": "DSA.stack.06_braket",
+        "peekOfCode": "def balanced(string):\n    stack = []\n    brackets = {'(': ')', '{': '}', '[': ']'}\n    for char in string:\n        if char in brackets:\n            stack.append(char)\n        elif char in brackets.values():\n            if not stack or brackets[stack.pop()] != char:\n                return False\n    return not stack",
+        "detail": "DSA.stack.06_braket",
+        "documentation": {}
+    },
+    {
+        "label": "reverseWords",
+        "kind": 2,
+        "importPath": "DSA.07_reverse_individual",
+        "description": "DSA.07_reverse_individual",
+        "peekOfCode": "def reverseWords(string):\n    #Traverse given string and push all characters\n    stack=[]\n    for i in range(len(string)):\n        if string[i] != \" \":\n            stack.append(string[i])\n        else:\n            while len(stack)>0:\n                print(stack[-1],end=\"\")\n                stack.pop()",
+        "detail": "DSA.07_reverse_individual",
+        "documentation": {}
+    },
+    {
+        "label": "ReverseString",
+        "kind": 2,
+        "importPath": "DSA.07_reverse_string",
+        "description": "DSA.07_reverse_string",
+        "peekOfCode": "def ReverseString(string):\n    reverse_string =[]\n    for char in string:\n        reverse_string.append(char)\n    return \"\".join(reversed(reverse_string))\na=ReverseString(\"My name is arjun\")\nprint(a)",
+        "detail": "DSA.07_reverse_string",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "File Handling in python.01_file_read",
+        "description": "File Handling in python.01_file_read",
+        "peekOfCode": "f = open(\"arjun.txt\", \"r\")\ncontent = f.read()\nfor line in content:\n    print(line)\nprint(content)\nf.close()",
+        "detail": "File Handling in python.01_file_read",
+        "documentation": {}
+    },
+    {
+        "label": "content",
+        "kind": 5,
+        "importPath": "File Handling in python.01_file_read",
+        "description": "File Handling in python.01_file_read",
+        "peekOfCode": "content = f.read()\nfor line in content:\n    print(line)\nprint(content)\nf.close()",
+        "detail": "File Handling in python.01_file_read",
+        "documentation": {}
+    },
+    {
+        "label": "function",
+        "kind": 2,
+        "importPath": "interviewquestion.01_largest_number_list",
+        "description": "interviewquestion.01_largest_number_list",
+        "peekOfCode": "def function(list):   \n    max = list[0]\n    for i in list:\n        if i>max:\n            max=i\n    return max\nprint(function(list))",
+        "detail": "interviewquestion.01_largest_number_list",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 5,
+        "importPath": "interviewquestion.02_reverese_string",
+        "description": "interviewquestion.02_reverese_string",
+        "peekOfCode": "string = \"My name is arjun nepali\"\nreverse = string[::-1]\nprint(reverse)",
+        "detail": "interviewquestion.02_reverese_string",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "kind": 5,
+        "importPath": "interviewquestion.02_reverese_string",
+        "description": "interviewquestion.02_reverese_string",
+        "peekOfCode": "reverse = string[::-1]\nprint(reverse)",
+        "detail": "interviewquestion.02_reverese_string",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 5,
+        "importPath": "interviewquestion.03_string_plaindrome",
+        "description": "interviewquestion.03_string_plaindrome",
+        "peekOfCode": "string = \"ABCdfBA\"\nrev_string = string[::-1]\nif string == rev_string:\n    print(\"its plaindrome\")\nelse:\n    print(\"its not plaindrome\")",
+        "detail": "interviewquestion.03_string_plaindrome",
+        "documentation": {}
+    },
+    {
+        "label": "rev_string",
+        "kind": 5,
+        "importPath": "interviewquestion.03_string_plaindrome",
+        "description": "interviewquestion.03_string_plaindrome",
+        "peekOfCode": "rev_string = string[::-1]\nif string == rev_string:\n    print(\"its plaindrome\")\nelse:\n    print(\"its not plaindrome\")",
+        "detail": "interviewquestion.03_string_plaindrome",
+        "documentation": {}
+    },
+    {
+        "label": "fun",
+        "kind": 2,
+        "importPath": "interviewquestion.04_factorial",
+        "description": "interviewquestion.04_factorial",
+        "peekOfCode": "def fun(n):\n    fact=1\n    for i in range(1,n+1):\n        fact = fact*i\n    return fact\nprint(fun(6))",
+        "detail": "interviewquestion.04_factorial",
+        "documentation": {}
+    },
+    {
+        "label": "creating_gen",
+        "kind": 2,
+        "importPath": "interviewquestion.06_python_keyword",
+        "description": "interviewquestion.06_python_keyword",
+        "peekOfCode": "def creating_gen(index):  \n    months = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']  \n    yield months[index]\n    yield months[index+2]\nnext_month = creating_gen(3)  \nprint(next(next_month), next(next_month))  \n# print(next(next_month))\n# print(next(next_month))\n# print(next(next_month))",
+        "detail": "interviewquestion.06_python_keyword",
+        "documentation": {}
+    },
+    {
+        "label": "next_month",
+        "kind": 5,
+        "importPath": "interviewquestion.06_python_keyword",
+        "description": "interviewquestion.06_python_keyword",
+        "peekOfCode": "next_month = creating_gen(3)  \nprint(next(next_month), next(next_month))  \n# print(next(next_month))\n# print(next(next_month))\n# print(next(next_month))",
+        "detail": "interviewquestion.06_python_keyword",
+        "documentation": {}
+    },
+    {
+        "label": "array_1",
+        "kind": 5,
+        "importPath": "interviewquestion.08_array",
+        "description": "interviewquestion.08_array",
+        "peekOfCode": "array_1 = arr.array(\"i\",[2,3,3,21,2,23])\nprint(array_1)",
+        "detail": "interviewquestion.08_array",
+        "documentation": {}
+    },
+    {
+        "label": "fibonicaaii",
+        "kind": 2,
+        "importPath": "interviewquestion.09_fibonicaai_series",
+        "description": "interviewquestion.09_fibonicaai_series",
+        "peekOfCode": "def fibonicaaii():\n    n=9\n    first=0\n    second=1\n    series =[first,second]\n    # if n==0:\n    #     return series\n    for i in range(n-2):\n        sum=series[i]+series[i+1]\n        series.append(sum)",
+        "detail": "interviewquestion.09_fibonicaai_series",
+        "documentation": {}
+    },
+    {
+        "label": "is_prime",
+        "kind": 2,
+        "importPath": "interviewquestion.10_checking_prime",
+        "description": "interviewquestion.10_checking_prime",
+        "peekOfCode": "def is_prime(n):\n    if n<=1:\n        return False\n    for i in range(2,n//2):\n        if n%i == 0:\n            return False\n    return True\nprint(is_prime(2))\nprint(is_prime(1))\nprint(is_prime(4))",
+        "detail": "interviewquestion.10_checking_prime",
+        "documentation": {}
+    },
+    {
+        "label": "gen_fibonicaii_series",
+        "kind": 2,
+        "importPath": "interviewquestion.11_fibonicaii_series",
+        "description": "interviewquestion.11_fibonicaii_series",
+        "peekOfCode": "def gen_fibonicaii_series(n):\n    # a, b=0, 1\n    # for _ in range(2,n):\n    #     a, b = b, a+b\n    # return b\n    list = [0,1]\n    a=0\n    b=1\n    for _ in range(2,n):\n       a,b=b,a+b",
+        "detail": "interviewquestion.11_fibonicaii_series",
+        "documentation": {}
+    },
+    {
+        "label": "Base1",
+        "kind": 6,
+        "importPath": "interviewquestion.multiple_inheritance",
+        "description": "interviewquestion.multiple_inheritance",
+        "peekOfCode": "class Base1:\n    def __init__(self):\n        self.str1=\"Base1\"\n        print(\"Base1\")\n    def base1_method(self):\n        print(\"Method from Base1\")\nclass Base2:\n    def __init__(self):\n        self.str2=\"Base2\"\n        print(\"Base2\")",
+        "detail": "interviewquestion.multiple_inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Base2",
+        "kind": 6,
+        "importPath": "interviewquestion.multiple_inheritance",
+        "description": "interviewquestion.multiple_inheritance",
+        "peekOfCode": "class Base2:\n    def __init__(self):\n        self.str2=\"Base2\"\n        print(\"Base2\")\n    def base2_method(self):\n        print(\"Method from Base2\")\nclass Derived(Base1,Base2):\n    def __init__(self):\n        Base1.__init__(self)\n        Base2.__init__(self)",
+        "detail": "interviewquestion.multiple_inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Derived",
+        "kind": 6,
+        "importPath": "interviewquestion.multiple_inheritance",
+        "description": "interviewquestion.multiple_inheritance",
+        "peekOfCode": "class Derived(Base1,Base2):\n    def __init__(self):\n        Base1.__init__(self)\n        Base2.__init__(self)\n        print(\"Derived\")\n    def print_strs(self):\n        print(self.str1,self.str2)\nobj = Derived()\nobj.print_strs()",
+        "detail": "interviewquestion.multiple_inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "interviewquestion.multiple_inheritance",
+        "description": "interviewquestion.multiple_inheritance",
+        "peekOfCode": "obj = Derived()\nobj.print_strs()",
+        "detail": "interviewquestion.multiple_inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "interviewquestion.prime3",
+        "description": "interviewquestion.prime3",
+        "peekOfCode": "x = 2\ny = 15\nlist = []\nfor i in range(x, y):\n    if i == 1 or i == 0:\n        continue\n    else:\n        for j in range(x, int(y/2)+1):\n            if i % j == 0:\n                break",
+        "detail": "interviewquestion.prime3",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "interviewquestion.prime3",
+        "description": "interviewquestion.prime3",
+        "peekOfCode": "y = 15\nlist = []\nfor i in range(x, y):\n    if i == 1 or i == 0:\n        continue\n    else:\n        for j in range(x, int(y/2)+1):\n            if i % j == 0:\n                break\n            else:",
+        "detail": "interviewquestion.prime3",
+        "documentation": {}
+    },
+    {
+        "label": "list",
+        "kind": 5,
+        "importPath": "interviewquestion.prime3",
+        "description": "interviewquestion.prime3",
+        "peekOfCode": "list = []\nfor i in range(x, y):\n    if i == 1 or i == 0:\n        continue\n    else:\n        for j in range(x, int(y/2)+1):\n            if i % j == 0:\n                break\n            else:\n                list.append(j)",
+        "detail": "interviewquestion.prime3",
+        "documentation": {}
+    },
+    {
+        "label": "num",
+        "kind": 5,
+        "importPath": "interviewquestion.primenumber1",
+        "description": "interviewquestion.primenumber1",
+        "peekOfCode": "num = int(input(\"Enter to check prime number\"))\nfor i in range(2, int(sqrt(num))+1):\n    if num % i == 0:\n        print(\"ts no t prime number\")\n    else:\n        print(\"Its prime number\")",
+        "detail": "interviewquestion.primenumber1",
+        "documentation": {}
+    },
+    {
+        "label": "num",
+        "kind": 5,
+        "importPath": "interviewquestion.Tocheckprime",
+        "description": "interviewquestion.Tocheckprime",
+        "peekOfCode": "num = int(input(\"Enter the number:\"))\nif num > 1:\n    for i in range(2, int(num/2)+1):\n        if (num % i) == 0:\n            print(num, \"is note prime number\")\n            break\n        else:\n            print(num, \"is a prime number\")\nelse:\n    print(num, \"is not a prime number\")",
+        "detail": "interviewquestion.Tocheckprime",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 2,
+        "importPath": "NumericalMethodProblem.BisectionMethod",
+        "description": "NumericalMethodProblem.BisectionMethod",
+        "peekOfCode": "def f(x):\n    return x**3-5*x-9\ndef bisection(x1, x2, e):\n    condition = True\n    while condition:\n        global x3\n        x3 = (x1+x2)/2\n        if(f(x3)*f(x1) < 0):\n            x2 = x3\n        else:",
+        "detail": "NumericalMethodProblem.BisectionMethod",
+        "documentation": {}
+    },
+    {
+        "label": "bisection",
+        "kind": 2,
+        "importPath": "NumericalMethodProblem.BisectionMethod",
+        "description": "NumericalMethodProblem.BisectionMethod",
+        "peekOfCode": "def bisection(x1, x2, e):\n    condition = True\n    while condition:\n        global x3\n        x3 = (x1+x2)/2\n        if(f(x3)*f(x1) < 0):\n            x2 = x3\n        else:\n            x1 = x3\n        condition = abs(f(x3)) > e",
+        "detail": "NumericalMethodProblem.BisectionMethod",
+        "documentation": {}
+    },
+    {
+        "label": "x1",
+        "kind": 5,
+        "importPath": "NumericalMethodProblem.BisectionMethod",
+        "description": "NumericalMethodProblem.BisectionMethod",
+        "peekOfCode": "x1 = float(input(\"Enter the first guesses:\"))\nx2 = float(input(\"Enter the second guess:\"))\nerror = float(input(\"Enter the allowable error:\"))\nif(f(x1)*f(x2) > 0.0):\n    print(\"Root doesn't lies inside the bracket\")\nelse:\n    bisection(x1, x2, error)\nprint(x3)",
+        "detail": "NumericalMethodProblem.BisectionMethod",
+        "documentation": {}
+    },
+    {
+        "label": "x2",
+        "kind": 5,
+        "importPath": "NumericalMethodProblem.BisectionMethod",
+        "description": "NumericalMethodProblem.BisectionMethod",
+        "peekOfCode": "x2 = float(input(\"Enter the second guess:\"))\nerror = float(input(\"Enter the allowable error:\"))\nif(f(x1)*f(x2) > 0.0):\n    print(\"Root doesn't lies inside the bracket\")\nelse:\n    bisection(x1, x2, error)\nprint(x3)",
+        "detail": "NumericalMethodProblem.BisectionMethod",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "kind": 5,
+        "importPath": "NumericalMethodProblem.BisectionMethod",
+        "description": "NumericalMethodProblem.BisectionMethod",
+        "peekOfCode": "error = float(input(\"Enter the allowable error:\"))\nif(f(x1)*f(x2) > 0.0):\n    print(\"Root doesn't lies inside the bracket\")\nelse:\n    bisection(x1, x2, error)\nprint(x3)",
+        "detail": "NumericalMethodProblem.BisectionMethod",
+        "documentation": {}
+    },
+    {
+        "label": "CSStudent",
+        "kind": 6,
+        "importPath": "oop program.class or Static variable in python.01_static_variable",
+        "description": "oop program.class or Static variable in python.01_static_variable",
+        "peekOfCode": "class CSStudent:\n    name = None\n    stream = 'cse'  # class variable\n    def __init__(self, name, roll):\n        self.name = name  # instance variable\n        self.roll = roll  # instance variable\na = CSStudent(\"arjun\", 1)\nb = CSStudent(\"menuka\", 2)\nprint(a.stream)\nprint(b.stream)",
+        "detail": "oop program.class or Static variable in python.01_static_variable",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "oop program.class or Static variable in python.01_static_variable",
+        "description": "oop program.class or Static variable in python.01_static_variable",
+        "peekOfCode": "a = CSStudent(\"arjun\", 1)\nb = CSStudent(\"menuka\", 2)\nprint(a.stream)\nprint(b.stream)\nprint(a.name)\nprint(b.name)\nprint(a.roll)\nprint(b.roll)\nprint(CSStudent.stream)\n# if we change the stream for just a it won't be changed for b",
+        "detail": "oop program.class or Static variable in python.01_static_variable",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "oop program.class or Static variable in python.01_static_variable",
+        "description": "oop program.class or Static variable in python.01_static_variable",
+        "peekOfCode": "b = CSStudent(\"menuka\", 2)\nprint(a.stream)\nprint(b.stream)\nprint(a.name)\nprint(b.name)\nprint(a.roll)\nprint(b.roll)\nprint(CSStudent.stream)\n# if we change the stream for just a it won't be changed for b\na.stream = 'ece'",
+        "detail": "oop program.class or Static variable in python.01_static_variable",
+        "documentation": {}
+    },
+    {
+        "label": "a.stream",
+        "kind": 5,
+        "importPath": "oop program.class or Static variable in python.01_static_variable",
+        "description": "oop program.class or Static variable in python.01_static_variable",
+        "peekOfCode": "a.stream = 'ece'\nprint(a.stream)",
+        "detail": "oop program.class or Static variable in python.01_static_variable",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "oop program.class or Static variable in python.constructor",
+        "description": "oop program.class or Static variable in python.constructor",
+        "peekOfCode": "class Person:\n    # init method or constructor\n    def __init__(self, name):\n        self.name1 = name\n    # Sample Method\n    def say_hi(self):\n        print('Hello, my name is', self.name1)\np = Person('Nikhil')\np.say_hi()",
+        "detail": "oop program.class or Static variable in python.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "oop program.class or Static variable in python.constructor",
+        "description": "oop program.class or Static variable in python.constructor",
+        "peekOfCode": "p = Person('Nikhil')\np.say_hi()",
+        "detail": "oop program.class or Static variable in python.constructor",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "oop program.class or Static variable in python.instancevariable",
+        "description": "oop program.class or Static variable in python.instancevariable",
+        "peekOfCode": "class Person:\n    status = \"Student\"\n    def __init__(self, name):\n        self.name = name\n    def setVariable(self, roll):\n        self.rollno = roll\n    def getVariable(self):\n        return self.rollno\narjun = Person(\"arjun nepali\")\nprint(arjun.name)",
+        "detail": "oop program.class or Static variable in python.instancevariable",
+        "documentation": {}
+    },
+    {
+        "label": "arjun",
+        "kind": 5,
+        "importPath": "oop program.class or Static variable in python.instancevariable",
+        "description": "oop program.class or Static variable in python.instancevariable",
+        "peekOfCode": "arjun = Person(\"arjun nepali\")\nprint(arjun.name)\narjun.setVariable(190345)\nprint(arjun.getVariable())",
+        "detail": "oop program.class or Static variable in python.instancevariable",
+        "documentation": {}
+    },
+    {
+        "label": "emplyee",
+        "kind": 6,
+        "importPath": "oop program.class or Static variable in python.simpleclass",
+        "description": "oop program.class or Static variable in python.simpleclass",
+        "peekOfCode": "class emplyee:\n    name = \"arjun Nepali\"\n    address = \"Kathmandu\"\n    def abc(self):\n        print(self.name)\n        print(self.address)\na = emplyee()\na.abc()",
+        "detail": "oop program.class or Static variable in python.simpleclass",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "oop program.class or Static variable in python.simpleclass",
+        "description": "oop program.class or Static variable in python.simpleclass",
+        "peekOfCode": "a = emplyee()\na.abc()",
+        "detail": "oop program.class or Static variable in python.simpleclass",
+        "documentation": {}
+    },
+    {
+        "label": "Dog",
+        "kind": 6,
+        "importPath": "oop program.class or Static variable in python.variableInclass",
+        "description": "oop program.class or Static variable in python.variableInclass",
+        "peekOfCode": "class Dog:\n    # Class Variable\n    animal = 'dog'\n    # The init method or constructor\n    def __init__(self, breed, color):\n        # Instance Variable\n        self.breed = breed\n        self.color = color\n        # int a;\n        # constructor(int b)",
+        "detail": "oop program.class or Static variable in python.variableInclass",
+        "documentation": {}
+    },
+    {
+        "label": "Rodger",
+        "kind": 5,
+        "importPath": "oop program.class or Static variable in python.variableInclass",
+        "description": "oop program.class or Static variable in python.variableInclass",
+        "peekOfCode": "Rodger = Dog(\"Pug\", \"brown\")\nBuzo = Dog(\"Bulldog\", \"black\")\nprint('Rodger details:')\nprint('Rodger is a', Rodger.animal)\nprint('Breed: ', Rodger.breed)\nprint('Color: ', Rodger.color)\nprint('\\nBuzo details:')\nprint('Buzo is a', Buzo.animal)\nprint('Breed: ', Buzo.breed)\nprint('Color: ', Buzo.color)",
+        "detail": "oop program.class or Static variable in python.variableInclass",
+        "documentation": {}
+    },
+    {
+        "label": "Buzo",
+        "kind": 5,
+        "importPath": "oop program.class or Static variable in python.variableInclass",
+        "description": "oop program.class or Static variable in python.variableInclass",
+        "peekOfCode": "Buzo = Dog(\"Bulldog\", \"black\")\nprint('Rodger details:')\nprint('Rodger is a', Rodger.animal)\nprint('Breed: ', Rodger.breed)\nprint('Color: ', Rodger.color)\nprint('\\nBuzo details:')\nprint('Buzo is a', Buzo.animal)\nprint('Breed: ', Buzo.breed)\nprint('Color: ', Buzo.color)\n# Class variables can be accessed using class",
+        "detail": "oop program.class or Static variable in python.variableInclass",
+        "documentation": {}
+    },
+    {
+        "label": "outer_function",
+        "kind": 2,
+        "importPath": "oop program.closures.closures",
+        "description": "oop program.closures.closures",
+        "peekOfCode": "def outer_function(m):\n    x=7#hard coded value\n    def inner_function(c):\n       return m*x +c\n    return inner_function\nif __name__=='__main__':\n    closure = outer_function(3)\n    print(closure)\n    y=closure(2)\n    print(y)",
+        "detail": "oop program.closures.closures",
+        "documentation": {}
+    },
+    {
+        "label": "Addition",
+        "kind": 6,
+        "importPath": "oop program.constructor in python.01_constructor",
+        "description": "oop program.constructor in python.01_constructor",
+        "peekOfCode": "class Addition:\n    first = 0\n    second = 0\n    answer = 0\n    def __init__(self, f, s):\n        self.first = f\n        self.second = s\n    def display(self):\n        print(\"First number = \" + str(self.first))\n        print(\"Second number = \" + str(self.second))",
+        "detail": "oop program.constructor in python.01_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "obj1",
+        "kind": 5,
+        "importPath": "oop program.constructor in python.01_constructor",
+        "description": "oop program.constructor in python.01_constructor",
+        "peekOfCode": "obj1 = Addition(1000, 2000)\n# creating second object of same class\nobj2 = Addition(10, 20)\n# perform Addition on obj1\nobj1.calculate()\n# perform Addition on obj2\nobj2.calculate()\n# display result of obj1\nobj1.display()\n# display result of obj2",
+        "detail": "oop program.constructor in python.01_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "obj2",
+        "kind": 5,
+        "importPath": "oop program.constructor in python.01_constructor",
+        "description": "oop program.constructor in python.01_constructor",
+        "peekOfCode": "obj2 = Addition(10, 20)\n# perform Addition on obj1\nobj1.calculate()\n# perform Addition on obj2\nobj2.calculate()\n# display result of obj1\nobj1.display()\n# display result of obj2\nobj2.display()",
+        "detail": "oop program.constructor in python.01_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "arjun",
+        "kind": 6,
+        "importPath": "oop program.constructor in python.default_constructor",
+        "description": "oop program.constructor in python.default_constructor",
+        "peekOfCode": "class arjun:\n    # default constructor\n    def __init__(self):\n        self.name = \"Arjun nepalii\"\n    def print_name(self):\n        print(self.name)\n# creating object of the class\nobj = arjun()\n# calling the instance method using the object obj\nobj.print_name()",
+        "detail": "oop program.constructor in python.default_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "ram",
+        "kind": 6,
+        "importPath": "oop program.constructor in python.default_constructor",
+        "description": "oop program.constructor in python.default_constructor",
+        "peekOfCode": "class ram:\n    def __init__(self):\n        print(\"my name is arjun nepali\")\nobj1 = ram()\nobj2 = ram()",
+        "detail": "oop program.constructor in python.default_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "oop program.constructor in python.default_constructor",
+        "description": "oop program.constructor in python.default_constructor",
+        "peekOfCode": "obj = arjun()\n# calling the instance method using the object obj\nobj.print_name()\nclass ram:\n    def __init__(self):\n        print(\"my name is arjun nepali\")\nobj1 = ram()\nobj2 = ram()",
+        "detail": "oop program.constructor in python.default_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "obj1",
+        "kind": 5,
+        "importPath": "oop program.constructor in python.default_constructor",
+        "description": "oop program.constructor in python.default_constructor",
+        "peekOfCode": "obj1 = ram()\nobj2 = ram()",
+        "detail": "oop program.constructor in python.default_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "obj2",
+        "kind": 5,
+        "importPath": "oop program.constructor in python.default_constructor",
+        "description": "oop program.constructor in python.default_constructor",
+        "peekOfCode": "obj2 = ram()",
+        "detail": "oop program.constructor in python.default_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "addition",
+        "kind": 6,
+        "importPath": "oop program.constructor in python.parameterized_constructor",
+        "description": "oop program.constructor in python.parameterized_constructor",
+        "peekOfCode": "class addition:\n    first = 0\n    second = 0\n    answer = 0\n    # parameterized constructor\n    def __init__(self, f, s):\n        self.first = f\n        self.second = s\n    def display(self):\n        print(\"First number  = \" + str(self.first))",
+        "detail": "oop program.constructor in python.parameterized_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "oop program.constructor in python.parameterized_constructor",
+        "description": "oop program.constructor in python.parameterized_constructor",
+        "peekOfCode": "obj = addition(100, 200)\n# perform Additon\nobj.calculate()\n# display result\nobj.display()",
+        "detail": "oop program.constructor in python.parameterized_constructor",
+        "documentation": {}
+    },
+    {
+        "label": "shout",
+        "kind": 2,
+        "importPath": "oop program.decorator.02_function_as_argument",
+        "description": "oop program.decorator.02_function_as_argument",
+        "peekOfCode": "def shout(text):\n    return text.upper()\ndef wishper(text):\n    return text.lower()\ndef greet(func):\n    greeting = func(\"\"\"Hi,I am arjun nepali i live in class 12\"\"\")\n    print(greeting)\ngreet(shout)\ngreet(wishper)",
+        "detail": "oop program.decorator.02_function_as_argument",
+        "documentation": {}
+    },
+    {
+        "label": "wishper",
+        "kind": 2,
+        "importPath": "oop program.decorator.02_function_as_argument",
+        "description": "oop program.decorator.02_function_as_argument",
+        "peekOfCode": "def wishper(text):\n    return text.lower()\ndef greet(func):\n    greeting = func(\"\"\"Hi,I am arjun nepali i live in class 12\"\"\")\n    print(greeting)\ngreet(shout)\ngreet(wishper)",
+        "detail": "oop program.decorator.02_function_as_argument",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "oop program.decorator.02_function_as_argument",
+        "description": "oop program.decorator.02_function_as_argument",
+        "peekOfCode": "def greet(func):\n    greeting = func(\"\"\"Hi,I am arjun nepali i live in class 12\"\"\")\n    print(greeting)\ngreet(shout)\ngreet(wishper)",
+        "detail": "oop program.decorator.02_function_as_argument",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "kind": 2,
+        "importPath": "oop program.decorator.03_decorator",
+        "description": "oop program.decorator.03_decorator",
+        "peekOfCode": "def func(fun):\n    a=fun()\n    return a\ndef greeting():\n    print(\"hello\")\n    return \"ab\"\nprint(func(greeting))",
+        "detail": "oop program.decorator.03_decorator",
+        "documentation": {}
+    },
+    {
+        "label": "greeting",
+        "kind": 2,
+        "importPath": "oop program.decorator.03_decorator",
+        "description": "oop program.decorator.03_decorator",
+        "peekOfCode": "def greeting():\n    print(\"hello\")\n    return \"ab\"\nprint(func(greeting))",
+        "detail": "oop program.decorator.03_decorator",
+        "documentation": {}
+    },
+    {
+        "label": "create_adder",
+        "kind": 2,
+        "importPath": "oop program.decorator.03_function_return_another_function",
+        "description": "oop program.decorator.03_function_return_another_function",
+        "peekOfCode": "def create_adder(x):\n    def adder(y):\n        return x+y\n    return adder\nadd_15 = create_adder(15)\nprint(add_15(10))",
+        "detail": "oop program.decorator.03_function_return_another_function",
+        "documentation": {}
+    },
+    {
+        "label": "add_15",
+        "kind": 5,
+        "importPath": "oop program.decorator.03_function_return_another_function",
+        "description": "oop program.decorator.03_function_return_another_function",
+        "peekOfCode": "add_15 = create_adder(15)\nprint(add_15(10))",
+        "detail": "oop program.decorator.03_function_return_another_function",
+        "documentation": {}
+    },
+    {
+        "label": "hello_decorator",
+        "kind": 2,
+        "importPath": "oop program.decorator.05_decorator",
+        "description": "oop program.decorator.05_decorator",
+        "peekOfCode": "def hello_decorator(func):\n    #inner1 is a Wrapper function in \n    #which the argument is called\n    def inner1():\n        print(\"Hello,this is before function execution\")\n        func()\n        print(\"This is after function execution \")\n    return inner1\n@hello_decorator\ndef function_to_be_used():",
+        "detail": "oop program.decorator.05_decorator",
+        "documentation": {}
+    },
+    {
+        "label": "function_to_be_used",
+        "kind": 2,
+        "importPath": "oop program.decorator.05_decorator",
+        "description": "oop program.decorator.05_decorator",
+        "peekOfCode": "def function_to_be_used():\n    print(\"This is inside function !!\")\n# function_to_be_used=hello_decorator(function_to_be_used)\nfunction_to_be_used()",
+        "detail": "oop program.decorator.05_decorator",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_time",
+        "kind": 2,
+        "importPath": "oop program.decorator.06_decorator",
+        "description": "oop program.decorator.06_decorator",
+        "peekOfCode": "def calculate_time(func):\n    def inner1(*args,**kwargs):\n        #storing time before function execution\n        begin =time.time()\n        func(*args,**kwargs)\n        #storing time after function execution\n        end = time.time()\n        print(\"Total time taken in :\",func.__name__,end-begin)\n    return inner1\n@calculate_time",
+        "detail": "oop program.decorator.06_decorator",
+        "documentation": {}
+    },
+    {
+        "label": "factorial",
+        "kind": 2,
+        "importPath": "oop program.decorator.06_decorator",
+        "description": "oop program.decorator.06_decorator",
+        "peekOfCode": "def factorial(num):\n    # sleep 2 seconds because it takes very less time\n    # so that you can see the actual difference\n    time.sleep(2)\n    print(math.factorial(num))\n# calling the function.\nfactorial(10)",
+        "detail": "oop program.decorator.06_decorator",
+        "documentation": {}
+    },
+    {
+        "label": "outer_function",
+        "kind": 2,
+        "importPath": "oop program.decorator.decoratorexample",
+        "description": "oop program.decorator.decoratorexample",
+        "peekOfCode": "def outer_function(func):\n    def inner_function(*args,**kwrgs):\n        r=func(*args,**kwrgs)\n        return r\n    return inner_function\n#how can you change the behaviour of this function without touching source code\n@outer_function\ndef get_square(item_list):\n    new_item_list=[]\n    for item in item_list:",
+        "detail": "oop program.decorator.decoratorexample",
+        "documentation": {}
+    },
+    {
+        "label": "get_square",
+        "kind": 2,
+        "importPath": "oop program.decorator.decoratorexample",
+        "description": "oop program.decorator.decoratorexample",
+        "peekOfCode": "def get_square(item_list):\n    new_item_list=[]\n    for item in item_list:\n        new_item_list.append(item*item)\n    return new_item_list\nif __name__=='__main__':\n    input_list = [2,4,6,8,9]\n    result = get_square(input_list)\n    print(result)",
+        "detail": "oop program.decorator.decoratorexample",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "kind": 6,
+        "importPath": "oop program.destructor in python.destructure_example",
+        "description": "oop program.destructor in python.destructure_example",
+        "peekOfCode": "class Employee:\n    # Initializing\n    def __init__(self):\n        print('Employee created.')\n    # Deleting (Calling destructor)\n    def __del__(self):\n        print('Destructor called, Employee deleted.')\nobj = Employee()\ndel obj",
+        "detail": "oop program.destructor in python.destructure_example",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "oop program.destructor in python.destructure_example",
+        "description": "oop program.destructor in python.destructure_example",
+        "peekOfCode": "obj = Employee()\ndel obj",
+        "detail": "oop program.destructor in python.destructure_example",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "oop program.Encapsulation in python.02_Protected_members",
+        "description": "oop program.Encapsulation in python.02_Protected_members",
+        "peekOfCode": "class Base:\n    def __init__(self):\n        # protected member\n        self._a = 2\n# creating a derived class\nclass Derived(Base):\n    def __init__(self):\n        # calling constructor of base\n        # class\n        Base.__init__(self)",
+        "detail": "oop program.Encapsulation in python.02_Protected_members",
+        "documentation": {}
+    },
+    {
+        "label": "Derived",
+        "kind": 6,
+        "importPath": "oop program.Encapsulation in python.02_Protected_members",
+        "description": "oop program.Encapsulation in python.02_Protected_members",
+        "peekOfCode": "class Derived(Base):\n    def __init__(self):\n        # calling constructor of base\n        # class\n        Base.__init__(self)\n        print(\"Calling protected member of base class:\", self._a)\nobj1 = Derived()\nobj2 = Base()\n# Calling protected member\n# can be Accessed but should not be done due to convention",
+        "detail": "oop program.Encapsulation in python.02_Protected_members",
+        "documentation": {}
+    },
+    {
+        "label": "obj1",
+        "kind": 5,
+        "importPath": "oop program.Encapsulation in python.02_Protected_members",
+        "description": "oop program.Encapsulation in python.02_Protected_members",
+        "peekOfCode": "obj1 = Derived()\nobj2 = Base()\n# Calling protected member\n# can be Accessed but should not be done due to convention\nprint(\"Accessing protected member of obj1:\", obj1._a)\n# Accessing the protected variable outside\nprint(\"Accessing protected member of obj2:\", obj2._a)",
+        "detail": "oop program.Encapsulation in python.02_Protected_members",
+        "documentation": {}
+    },
+    {
+        "label": "obj2",
+        "kind": 5,
+        "importPath": "oop program.Encapsulation in python.02_Protected_members",
+        "description": "oop program.Encapsulation in python.02_Protected_members",
+        "peekOfCode": "obj2 = Base()\n# Calling protected member\n# can be Accessed but should not be done due to convention\nprint(\"Accessing protected member of obj1:\", obj1._a)\n# Accessing the protected variable outside\nprint(\"Accessing protected member of obj2:\", obj2._a)",
+        "detail": "oop program.Encapsulation in python.02_Protected_members",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "oop program.Encapsulation in python.03_Private_member",
+        "description": "oop program.Encapsulation in python.03_Private_member",
+        "peekOfCode": "class Base:\n    def __init__(self):\n        self.a = \"Arjun Nepali\"\n        self.__c = \"Rupak Nepali\"\n# Creating derived class\nclass Derived(Base):\n    def __init__(self):\n        # Calling constructor of Base class\n        Base.__init__(self)\n        print(\"Calling private member of base class:\")",
+        "detail": "oop program.Encapsulation in python.03_Private_member",
+        "documentation": {}
+    },
+    {
+        "label": "Derived",
+        "kind": 6,
+        "importPath": "oop program.Encapsulation in python.03_Private_member",
+        "description": "oop program.Encapsulation in python.03_Private_member",
+        "peekOfCode": "class Derived(Base):\n    def __init__(self):\n        # Calling constructor of Base class\n        Base.__init__(self)\n        print(\"Calling private member of base class:\")\n        print(self.__c)\n# Deriver code\nobj1 = Base()\nprint(obj1.a)\n# obj2 = Derived()",
+        "detail": "oop program.Encapsulation in python.03_Private_member",
+        "documentation": {}
+    },
+    {
+        "label": "obj1",
+        "kind": 5,
+        "importPath": "oop program.Encapsulation in python.03_Private_member",
+        "description": "oop program.Encapsulation in python.03_Private_member",
+        "peekOfCode": "obj1 = Base()\nprint(obj1.a)\n# obj2 = Derived()\n# private member of the base class is called\n# inside derived class",
+        "detail": "oop program.Encapsulation in python.03_Private_member",
+        "documentation": {}
+    },
+    {
+        "label": "greeting",
+        "kind": 2,
+        "importPath": "oop program.function_advance.function_inside_function",
+        "description": "oop program.function_advance.function_inside_function",
+        "peekOfCode": "def greeting(name):\n    return f\"Hello,{name}\"\ndef apply_function(func,value):\n    return func(value)\na=apply_function(greeting,\"Arjun\")\nprint(a)",
+        "detail": "oop program.function_advance.function_inside_function",
+        "documentation": {}
+    },
+    {
+        "label": "apply_function",
+        "kind": 2,
+        "importPath": "oop program.function_advance.function_inside_function",
+        "description": "oop program.function_advance.function_inside_function",
+        "peekOfCode": "def apply_function(func,value):\n    return func(value)\na=apply_function(greeting,\"Arjun\")\nprint(a)",
+        "detail": "oop program.function_advance.function_inside_function",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.01_inheritanceInpython",
+        "description": "oop program.Inheritance in python.01_inheritanceInpython",
+        "peekOfCode": "class Person:\n    def __init__(self, name, age):\n        self.name = name\n        self.age = age\n    def display(self):\n        print(self.name)\n        print(self.age)\narjun = Person('arjun', 10)\narjun.display()",
+        "detail": "oop program.Inheritance in python.01_inheritanceInpython",
+        "documentation": {}
+    },
+    {
+        "label": "arjun",
+        "kind": 5,
+        "importPath": "oop program.Inheritance in python.01_inheritanceInpython",
+        "description": "oop program.Inheritance in python.01_inheritanceInpython",
+        "peekOfCode": "arjun = Person('arjun', 10)\narjun.display()",
+        "detail": "oop program.Inheritance in python.01_inheritanceInpython",
+        "documentation": {}
+    },
+    {
+        "label": "Father",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.05_01multipleInheritance",
+        "description": "oop program.Inheritance in python.05_01multipleInheritance",
+        "peekOfCode": "class Father(object):\n    fathername = \"\"\n    def __init__(self, fathername):\n        self.fathername = fathername\n    def getFathername(self):\n        return self.fathername\nclass Mother(object):\n    mothername = \"\"\n    def __init__(self, mothername):\n        self.mothername = mothername",
+        "detail": "oop program.Inheritance in python.05_01multipleInheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Mother",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.05_01multipleInheritance",
+        "description": "oop program.Inheritance in python.05_01multipleInheritance",
+        "peekOfCode": "class Mother(object):\n    mothername = \"\"\n    def __init__(self, mothername):\n        self.mothername = mothername\n    # def getMothername(self):\n    #     return self.mothername\nclass son(Father, Mother):\n    sonname = \"\"\n    def __init__(self, sonname, fathernam, mothername):\n        Father.__init__(self, fathername=fathernam)",
+        "detail": "oop program.Inheritance in python.05_01multipleInheritance",
+        "documentation": {}
+    },
+    {
+        "label": "son",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.05_01multipleInheritance",
+        "description": "oop program.Inheritance in python.05_01multipleInheritance",
+        "peekOfCode": "class son(Father, Mother):\n    sonname = \"\"\n    def __init__(self, sonname, fathernam, mothername):\n        Father.__init__(self, fathername=fathernam)\n        Mother.__init__(self, mothername)\n        self.sonname = sonname\n    def displayAllname(self):\n        print(\"Father name is \"+self.fathername)\n        print(\"Mother name is \"+self.mothername)\n        print(\"your name is \"+self.sonname)",
+        "detail": "oop program.Inheritance in python.05_01multipleInheritance",
+        "documentation": {}
+    },
+    {
+        "label": "obj1",
+        "kind": 5,
+        "importPath": "oop program.Inheritance in python.05_01multipleInheritance",
+        "description": "oop program.Inheritance in python.05_01multipleInheritance",
+        "peekOfCode": "obj1 = son(\"abc\", \"hari\", \"gopal\")\nobj1.displayAllname()",
+        "detail": "oop program.Inheritance in python.05_01multipleInheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Base1",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.06_multipleInheritance",
+        "description": "oop program.Inheritance in python.06_multipleInheritance",
+        "peekOfCode": "class Base1(object):\n    def __init__(self):\n        self.str1 = \"Arjun nepali\"\n    print(\"Base1\")\nclass Base2(object):\n    def __init__(self):\n        self.str2 = \"Rupak Nepali\"\n        print(\"Base2\")\nclass Derived(Base1, Base2):\n    def __init__(self):",
+        "detail": "oop program.Inheritance in python.06_multipleInheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Base2",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.06_multipleInheritance",
+        "description": "oop program.Inheritance in python.06_multipleInheritance",
+        "peekOfCode": "class Base2(object):\n    def __init__(self):\n        self.str2 = \"Rupak Nepali\"\n        print(\"Base2\")\nclass Derived(Base1, Base2):\n    def __init__(self):\n        # calling constructor of the\n        # base classes\n        Base1.__init__(self)\n        Base2.__init__(self)",
+        "detail": "oop program.Inheritance in python.06_multipleInheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Derived",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.06_multipleInheritance",
+        "description": "oop program.Inheritance in python.06_multipleInheritance",
+        "peekOfCode": "class Derived(Base1, Base2):\n    def __init__(self):\n        # calling constructor of the\n        # base classes\n        Base1.__init__(self)\n        Base2.__init__(self)\n        print(\"Derived\")\n    def printStrs(self):\n        print(self.str1, self.str2)\nob = Derived()",
+        "detail": "oop program.Inheritance in python.06_multipleInheritance",
+        "documentation": {}
+    },
+    {
+        "label": "ob",
+        "kind": 5,
+        "importPath": "oop program.Inheritance in python.06_multipleInheritance",
+        "description": "oop program.Inheritance in python.06_multipleInheritance",
+        "peekOfCode": "ob = Derived()\nob1 = Base1()\nob.printStrs()",
+        "detail": "oop program.Inheritance in python.06_multipleInheritance",
+        "documentation": {}
+    },
+    {
+        "label": "ob1",
+        "kind": 5,
+        "importPath": "oop program.Inheritance in python.06_multipleInheritance",
+        "description": "oop program.Inheritance in python.06_multipleInheritance",
+        "peekOfCode": "ob1 = Base1()\nob.printStrs()",
+        "detail": "oop program.Inheritance in python.06_multipleInheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "description": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "peekOfCode": "class Base(object):\n    # constructor\n    def __init__(self, name):\n        self.name = name\n    # to get name\n    def getName(self):\n        return self.name\n# Inherited or Sub class (note person in bracket)\nclass child(Base):\n    # constructor",
+        "detail": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "child",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "description": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "peekOfCode": "class child(Base):\n    # constructor\n    def __init__(self, name, age):\n        Base.__init__(self, name)\n        self.age = age\n    # to get name\n    def getAge(self):\n        return self.age\n# Inherited or Sub class (note Person in bracket)\nclass Grandchild(child):",
+        "detail": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Grandchild",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "description": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "peekOfCode": "class Grandchild(child):\n    # constructor\n    def __init__(self, name, age, address):\n        child.__init__(self, name, age)\n        self.address = address\n    def getAddress(self):\n        return self.address\n# Driver code\ng = Grandchild(\"arjun\", 21, \"nepal\")\nprint(g.getName(), g.getAge(), g.getAddress())",
+        "detail": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "g",
+        "kind": 5,
+        "importPath": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "description": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "peekOfCode": "g = Grandchild(\"arjun\", 21, \"nepal\")\nprint(g.getName(), g.getAge(), g.getAddress())",
+        "detail": "oop program.Inheritance in python.07_multiLevel_Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "C",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.10_private_member_of_parent_class",
+        "description": "oop program.Inheritance in python.10_private_member_of_parent_class",
+        "peekOfCode": "class C(object):\n    def __init__(self):\n        self.c = 21\n        # d is private instance variable\n        self.__d = 42\nclass D(C):\n    def __init__(self):\n        self.e = 84\n        C.__init__(self)\nobject1 = D()",
+        "detail": "oop program.Inheritance in python.10_private_member_of_parent_class",
+        "documentation": {}
+    },
+    {
+        "label": "D",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.10_private_member_of_parent_class",
+        "description": "oop program.Inheritance in python.10_private_member_of_parent_class",
+        "peekOfCode": "class D(C):\n    def __init__(self):\n        self.e = 84\n        C.__init__(self)\nobject1 = D()\n# produces an error as d is private instance variable\nprint(object1.d)",
+        "detail": "oop program.Inheritance in python.10_private_member_of_parent_class",
+        "documentation": {}
+    },
+    {
+        "label": "object1",
+        "kind": 5,
+        "importPath": "oop program.Inheritance in python.10_private_member_of_parent_class",
+        "description": "oop program.Inheritance in python.10_private_member_of_parent_class",
+        "peekOfCode": "object1 = D()\n# produces an error as d is private instance variable\nprint(object1.d)",
+        "detail": "oop program.Inheritance in python.10_private_member_of_parent_class",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.11_attribute_inheritance",
+        "description": "oop program.Inheritance in python.11_attribute_inheritance",
+        "peekOfCode": "class User:\n    f_name = \"arjun\"\n    l_name = \"Nepali\"\n    is_staff = \"true\"\nclass user1(object):\n    f_name =\"rabin\"\n    email = \"nepaliarjun@gmail.com\"\nu =User\nu1=user1(u)\nprint(u1)",
+        "detail": "oop program.Inheritance in python.11_attribute_inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "user1",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.11_attribute_inheritance",
+        "description": "oop program.Inheritance in python.11_attribute_inheritance",
+        "peekOfCode": "class user1(object):\n    f_name =\"rabin\"\n    email = \"nepaliarjun@gmail.com\"\nu =User\nu1=user1(u)\nprint(u1)",
+        "detail": "oop program.Inheritance in python.11_attribute_inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "person",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.calling_constructor_of_parent_class",
+        "description": "oop program.Inheritance in python.calling_constructor_of_parent_class",
+        "peekOfCode": "class person(object):\n    # __init__ is know as a constructor\n    def __init__(self, name, idnumber):\n        self.name = name\n        self.idnumber = idnumber\n    def display(self):\n        print(self.name)\n        print(self.idnumber)\n    # child class\nclass Employee(person):",
+        "detail": "oop program.Inheritance in python.calling_constructor_of_parent_class",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.calling_constructor_of_parent_class",
+        "description": "oop program.Inheritance in python.calling_constructor_of_parent_class",
+        "peekOfCode": "class Employee(person):\n    def __init__(self, name, idnumber, salary, post):\n        self.salary = salary\n        self.post = post\n        # invoking the __init__ of the parent class\n        person.__init__(self, name, idnumber)\na = Employee(\"Rahul\", 89999, 20000, \"intern\")\na.display()",
+        "detail": "oop program.Inheritance in python.calling_constructor_of_parent_class",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "oop program.Inheritance in python.calling_constructor_of_parent_class",
+        "description": "oop program.Inheritance in python.calling_constructor_of_parent_class",
+        "peekOfCode": "a = Employee(\"Rahul\", 89999, 20000, \"intern\")\na.display()",
+        "detail": "oop program.Inheritance in python.calling_constructor_of_parent_class",
+        "documentation": {}
+    },
+    {
+        "label": "person",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.inheritance_example",
+        "description": "oop program.Inheritance in python.inheritance_example",
+        "peekOfCode": "class person(object):\n    # constructor\n    def __init__(self, name):\n        self.name = name\n    # to get name\n    def getName(self):\n        return self.name\n    # To check if the person is employee or not\n    def isEmployee(self):\n        return False",
+        "detail": "oop program.Inheritance in python.inheritance_example",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "kind": 6,
+        "importPath": "oop program.Inheritance in python.inheritance_example",
+        "description": "oop program.Inheritance in python.inheritance_example",
+        "peekOfCode": "class Employee(person):\n    # Here we return tue\n    def isEmployee(self):\n        return True\n    # Driver code\n    emp = person(\"Arjun\")  # An object of the person\n    print(emp.getName(), emp.isEmployee())\nemp = Employee(\"hari\")\nprint(emp.getName(), emp.isEmployee())",
+        "detail": "oop program.Inheritance in python.inheritance_example",
+        "documentation": {}
+    },
+    {
+        "label": "emp",
+        "kind": 5,
+        "importPath": "oop program.Inheritance in python.inheritance_example",
+        "description": "oop program.Inheritance in python.inheritance_example",
+        "peekOfCode": "emp = Employee(\"hari\")\nprint(emp.getName(), emp.isEmployee())",
+        "detail": "oop program.Inheritance in python.inheritance_example",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "oop program.polymorphism in python.01_polymerphism",
+        "description": "oop program.polymorphism in python.01_polymerphism",
+        "peekOfCode": "def add(x, y, z=0):\n    return x+y+z\n# Driver code\nprint(add(4, 5))\nprint(add(4, 5, 7))",
+        "detail": "oop program.polymorphism in python.01_polymerphism",
+        "documentation": {}
+    },
+    {
+        "label": "india",
+        "kind": 6,
+        "importPath": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "description": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "peekOfCode": "class india():\n    def capital(self):\n        print(\"New Delhi is the capita of INdia.\")\n    def language(self):\n        print(\"HIndi is the most widely spoken language of INdia.\")\n    def type(self):\n        print(\"INdia ia a developing country\")\nclass USA():\n    def capital(self):\n        print(\"Washington, D.C. is the capital of USA.\")",
+        "detail": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "documentation": {}
+    },
+    {
+        "label": "USA",
+        "kind": 6,
+        "importPath": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "description": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "peekOfCode": "class USA():\n    def capital(self):\n        print(\"Washington, D.C. is the capital of USA.\")\n    def language(self):\n        print(\"English is the primary language of USA.\")\n    def type(self):\n        print(\"USA is a developed country.\")\nobj_ind = india()\nobj_usa = USA()\nfor country in (obj_ind, obj_usa):",
+        "detail": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "documentation": {}
+    },
+    {
+        "label": "obj_ind",
+        "kind": 5,
+        "importPath": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "description": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "peekOfCode": "obj_ind = india()\nobj_usa = USA()\nfor country in (obj_ind, obj_usa):\n    country.capital()\n    country.language()\n    country.type()",
+        "detail": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "documentation": {}
+    },
+    {
+        "label": "obj_usa",
+        "kind": 5,
+        "importPath": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "description": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "peekOfCode": "obj_usa = USA()\nfor country in (obj_ind, obj_usa):\n    country.capital()\n    country.language()\n    country.type()",
+        "detail": "oop program.polymorphism in python.02_polymerphism_class_method",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "kind": 5,
+        "importPath": "practice program.01_python",
+        "description": "practice program.01_python",
+        "peekOfCode": "sum = 0\nwhile(True):\n    userINput = input(\"Enter the price:\")\n    if(userINput != \"q\"):\n        sum = sum + int(userINput)\n    else:\n        print(f\"your bill total is {sum} \")\n        print(\"Thanks for sopping with us!!\")\n        break\n# receipt printer",
+        "detail": "practice program.01_python",
+        "documentation": {}
+    },
+    {
+        "label": "play",
+        "kind": 2,
+        "importPath": "practice program.args_function",
+        "description": "practice program.args_function",
+        "peekOfCode": "def play(*args, **kwargs):\n    for key, arg in kwargs:\n        print(arg)\na = play(abc=12)",
+        "detail": "practice program.args_function",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "practice program.args_function",
+        "description": "practice program.args_function",
+        "peekOfCode": "a = play(abc=12)",
+        "detail": "practice program.args_function",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "practice program.inheirtance",
+        "description": "practice program.inheirtance",
+        "peekOfCode": "class User:\n    first_neme = \"Arjun\"\n    last_neme = \"Nepali\"\nclass AbstractUser:\n    is_staff = True\n    is_customer = False\n    email = \"nepaliarjun\"\nclass User(AbstractUser):\n    color = 'red'\na = User",
+        "detail": "practice program.inheirtance",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "kind": 6,
+        "importPath": "practice program.inheirtance",
+        "description": "practice program.inheirtance",
+        "peekOfCode": "class AbstractUser:\n    is_staff = True\n    is_customer = False\n    email = \"nepaliarjun\"\nclass User(AbstractUser):\n    color = 'red'\na = User\nprint(a.email)\nprint(a.color)\nb = AbstractUser",
+        "detail": "practice program.inheirtance",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "practice program.inheirtance",
+        "description": "practice program.inheirtance",
+        "peekOfCode": "class User(AbstractUser):\n    color = 'red'\na = User\nprint(a.email)\nprint(a.color)\nb = AbstractUser\nprint(b.is_staff)",
+        "detail": "practice program.inheirtance",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "practice program.inheirtance",
+        "description": "practice program.inheirtance",
+        "peekOfCode": "a = User\nprint(a.email)\nprint(a.color)\nb = AbstractUser\nprint(b.is_staff)",
+        "detail": "practice program.inheirtance",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "practice program.inheirtance",
+        "description": "practice program.inheirtance",
+        "peekOfCode": "b = AbstractUser\nprint(b.is_staff)",
+        "detail": "practice program.inheirtance",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "Python Basic.access_modifier.01_problem",
+        "description": "Python Basic.access_modifier.01_problem",
+        "peekOfCode": "class Person:\n    def __init__(self,name,age):\n        self.P_name= name\n        self.P_age=age\n    def displayAge(self):\n        print(\"Age:\",self.P_age)\nobj=Person(\"ARjun\",23)\nobj.displayAge()",
+        "detail": "Python Basic.access_modifier.01_problem",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "Python Basic.access_modifier.02_protected",
+        "description": "Python Basic.access_modifier.02_protected",
+        "peekOfCode": "class Student:\n    _name = None\n    _roll =None\n    _branch=None\n    #constructor\n    def __init__(self,name,roll,branch):\n        self._name=name\n        self._roll=roll\n        self._branch=branch\n    def _displayRollAndBranch(self):",
+        "detail": "Python Basic.access_modifier.02_protected",
+        "documentation": {}
+    },
+    {
+        "label": "Geek",
+        "kind": 6,
+        "importPath": "Python Basic.access_modifier.02_protected",
+        "description": "Python Basic.access_modifier.02_protected",
+        "peekOfCode": "class Geek(Student):\n    # constructor\n    def __init__(self, name, roll, branch):\n        Student.__init__(self, name, roll, branch)\n    # public member function\n    def displayDetails(self):\n              # accessing protected data members of super class\n        print(\"Name: \", self._name)\n        # accessing protected member functions of super class\n        self._displayRollAndBranch()",
+        "detail": "Python Basic.access_modifier.02_protected",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "Python Basic.access_modifier.02_protected",
+        "description": "Python Basic.access_modifier.02_protected",
+        "peekOfCode": "obj = Geek(\"R2J\", 1706256, \"Information Technology\")\n# calling public member functions of the class\nobj.displayDetails()",
+        "detail": "Python Basic.access_modifier.02_protected",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "Python Basic.access_modifier.03_protected1",
+        "description": "Python Basic.access_modifier.03_protected1",
+        "peekOfCode": "class Student:\n    # _name = None\n    # _roll =None\n    # _branch=None\n    #constructor\n    def __init__(self,name,roll,branch):\n        self._name=name\n        self._roll=roll\n        self._branch=branch\n    def _displayRollAndBranch(self):",
+        "detail": "Python Basic.access_modifier.03_protected1",
+        "documentation": {}
+    },
+    {
+        "label": "Geek",
+        "kind": 6,
+        "importPath": "Python Basic.access_modifier.04_private",
+        "description": "Python Basic.access_modifier.04_private",
+        "peekOfCode": "class Geek:\n    # private members\n    __name = None\n    __roll = None\n    __branch = None\n    # constructor\n    def __init__(self, name, roll, branch):\n        self.__name = name\n        self.__roll = roll\n        self.__branch = branch",
+        "detail": "Python Basic.access_modifier.04_private",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "Python Basic.access_modifier.04_private",
+        "description": "Python Basic.access_modifier.04_private",
+        "peekOfCode": "obj = Geek(\"R2J\", 1706256, \"Information Technology\")\n# calling public member function of the class\nobj.accessPrivateFunction()\n# obj.__displayDetails()",
+        "detail": "Python Basic.access_modifier.04_private",
+        "documentation": {}
+    },
+    {
+        "label": "jsonl_data",
+        "kind": 5,
+        "importPath": "Python Basic.access_modifier.jsonl_json",
+        "description": "Python Basic.access_modifier.jsonl_json",
+        "peekOfCode": "jsonl_data = \"\"\"{\"id\":67,\"text\":\"Sarita Lama\\\\n\\\\nContact Information:\\\\n\\\\nPhone: +977-9812345678\\\\nEmail: sarita.lama@gmail.com\\\\nAddress: Kathmandu, Nepal\\\\nCareer Objective:\\\\nDedicated Quality Assurance Engineer with 3 years of experience in ensuring the quality of software applications. Looking to leverage expertise in QA methodologies in a challenging role.\\\\n\\\\nEducation:\\\\n\\\\nTribhuvan University\\\\nBachelor of Computer Science and Information Technology\\\\nPassed Year: 2018\\\\nProfessional Experience:\\\\n\\\\nNcell Pvt. Ltd.\\\\nQA Engineer\\\\nMarch 2021 – Present\\\\n\\\\nConducted manual and automated testing of web applications.\\\\nDeveloped test cases and test plans for new features.\\\\nCollaborated with developers to resolve defects and ensure software quality.\\\\nSkills:\\\\n\\\\nManual Testing, Automated Testing, Selenium, JIRA, Agile\\\\/Scrum\\\\nTest Case Development, Git, Jenkins\\\\nProjects:\\\\n\\\\nE-commerce Platform Testing\\\\n\\\\nConducted end-to-end testing of an e-commerce platform.\\\\nDeveloped and executed test cases for various features.\\\\nHealthcare Portal Testing\\\\n\\\\nPerformed manual and automated testing of a healthcare portal.\\\\nIdentified and reported defects, ensuring timely resolution.\\\\nRaju Shrestha\\\\n\\\\nContact Information:\\\\n\\\\nPhone: +977-9845678901\\\\nEmail: raju.shrestha@gmail.com\\\\nAddress: Bhaktapur, Nepal\\\\nCareer Objective:\\\\nExperienced Quality Assurance Engineer with 4 years of expertise in testing software applications. Seeking to apply skills in a dynamic and innovative environment.\\\\n\\\\nEducation:\\\\n\\\\nKathmandu University\\\\nBachelor of Engineering in Computer Engineering\\\\nPassed Year: 2017\\\\nProfessional Experience:\\\\n\\\\nF1Soft International\\\\nSenior QA Engineer\\\\nJune 2020 – Present\\\\n\\\\nDeveloped and executed test plans and test cases for web applications.\\\\nConducted automated testing using Selenium and JUnit.\\\\nCollaborated with development teams to ensure software quality.\\\\nSkills:\\\\n\\\\nManual Testing, Automated Testing, Selenium, JUnit, JIRA\\\\nTest Plan Development, Git, Jenkins, Agile\\\\/Scrum\\\\nProjects:\\\\n\\\\nProject Management Tool Testing\\\\n\\\\nDeveloped and executed test plans for a project management tool.\\\\nConducted automated testing using Selenium.\\\\nOnline Learning Platform Testing\\\\n\\\\nPerformed end-to-end testing of an online learning platform.\\\\nIdentified and reported defects, ensuring timely resolution.\",\"label\":[[0,11,\"Name\"],[13,33,\"skills\"],[42,57,\"Name\"]],\"Comments\":[]}\n{\"id\":68,\"text\":\"Anil Gurung\\\\n\\\\nContact Information:\\\\n\\\\nPhone: +977-9865432109\\\\nEmail: anil.gurung@gmail.com\\\\nAddress: Lalitpur, Nepal\\\\nCareer Objective:\\\\nSkilled AI Engineer with 5 years of experience in developing AI models. Looking to contribute to a forward-thinking team.\\\\n\\\\nEducation:\\\\n\\\\nNepal Engineering College\\\\nBachelor of Computer Engineering\\\\nPassed Year: 2016\\\\nProfessional Experience:\\\\n\\\\nLogPoint\\\\nLead AI Engineer\\\\nFebruary 2019 – Present\\\\n\\\\nLed the development of AI models using Python and TensorFlow.\\\\nImplemented NLP algorithms for text analysis and processing.\\\\nCollaborated with data scientists to build and deploy AI solutions.\\\\nSkills:\\\\n\\\\nPython, TensorFlow, Keras, Natural Language Processing, Machine Learning\\\\nGit, Docker, Jenkins, Agile\\\\/Scrum\\\\nProjects:\\\\n\\\\nChatbot Development\\\\n\\\\nBuilt a chatbot for customer support using NLP and machine learning.\\\\nIntegrated the chatbot with popular messaging platforms.\\\\nImage Classification\\\\n\\\\nDeveloped an image classification model using convolutional neural networks.\\\\nDeployed the model for real-time image analysis and prediction.\\\\n\",\"label\":[[0,11,\"Name\"],[42,57,\"skills\"],[95,111,\"Name\"]],\"Comments\":[]}\n{\"id\":69,\"text\":\"Anita Maharjan\\\\n\\\\nContact Information:\\\\n\\\\nPhone: +977-9846789012\\\\nEmail: anita.maharjan@gmail.com\\\\nAddress: Lalitpur, Nepal\\\\nCareer Objective:\\\\nExperienced Quality Assurance Engineer with 4 years of experience in ensuring software quality through meticulous testing. Aiming to contribute to a dynamic and innovative team.\\\\n\\\\nEducation:\\\\n\\\\nPurbanchal University\\\\nBachelor of Information Technology\\\\nPassed Year: 2017\\\\nProfessional Experience:\\\\n\\\\nMercantile Communications\\\\nSenior QA Engineer\\\\nMay 2020 – Present\\\\n\\\\nDeveloped and executed comprehensive test plans and test cases.\\\\nPerformed manual and automated testing of web and mobile applications.\\\\nIdentified, documented, and tracked software defects.\\\\nSkills:\\\\n\\\\nManual Testing, Automated Testing, Selenium, Appium, JIRA\\\\nTest Plan Development, Git, Jenkins, Agile\\\\/Scrum\\\\nProjects:\\\\n\\\\nSocial Media Application Testing\\\\n\\\\nConducted end-to-end testing for a social media application.\\\\nAutomated test scripts to enhance testing efficiency.\\\\nTravel Booking Platform Testing\\\\n\\\\nPerformed functional and performance testing of a travel booking platform.\\\\nEnsured the application met all user requirements and performance standards.\",\"label\":[],\"Comments\":[]}\n{\"id\":70,\"text\":\"Anjali Shrestha\\\\n\\\\nContact Information:\\\\n\\\\nPhone: +977-9812345678\\\\nEmail: anjali.shrestha@gmail.com\\\\nAddress: Chitwan, Nepal\\\\nCareer Objective:\\\\nExperienced Data Engineer with 5 years of expertise in building and maintaining data pipelines. Looking to contribute to a forward-thinking company.\\\\n\\\\nEducation:\\\\n\\\\nNepal Engineering College\\\\nBachelor of Computer Engineering\\\\nPassed Year: 2015\\\\nProfessional Experience:\\\\n\\\\nDeerwalk Inc.\\\\nData Engineer\\\\nJune 2017 – Present\\\\n\\\\nDeveloped and maintained data pipelines for ETL processes.\\\\nImplemented data warehousing solutions using SQL and NoSQL databases.\\\\nCollaborated with data scientists to ensure data quality and consistency.\\\\nSkills:\\\\n\\\\nPython, SQL, Apache Spark, Hadoop, ETL\\\\nData Warehousing, Data Modeling, Git, Docker\\\\nProjects:\\\\n\\\\nData Warehouse Development\\\\n\\\\nDeveloped a data warehouse for a healthcare application.\\\\nImplemented ETL processes to ensure data consistency.\\\\nMachine Learning Data Pipeline\\\\n\\\\nBuilt a data pipeline for machine learning applications.\\\\nIntegrated the pipeline with data visualization tools.\\\\n\",\"label\":[[137,399,\"Name\"]],\"Comments\":[]}\"\"\"\n# Split the JSONL string into individual lines\nlines = jsonl_data.strip().split('\\n')\n# Parse each line as JSON and add to a list\njson_data = [json.loads(line) for line in lines]\n# Convert the list to a JSON formatted string\njson_output = json.dumps(json_data, indent=4)",
+        "detail": "Python Basic.access_modifier.jsonl_json",
+        "documentation": {}
+    },
+    {
+        "label": "lines",
+        "kind": 5,
+        "importPath": "Python Basic.access_modifier.jsonl_json",
+        "description": "Python Basic.access_modifier.jsonl_json",
+        "peekOfCode": "lines = jsonl_data.strip().split('\\n')\n# Parse each line as JSON and add to a list\njson_data = [json.loads(line) for line in lines]\n# Convert the list to a JSON formatted string\njson_output = json.dumps(json_data, indent=4)\n# Print the JSON output\nprint(json_output)",
+        "detail": "Python Basic.access_modifier.jsonl_json",
+        "documentation": {}
+    },
+    {
+        "label": "json_data",
+        "kind": 5,
+        "importPath": "Python Basic.access_modifier.jsonl_json",
+        "description": "Python Basic.access_modifier.jsonl_json",
+        "peekOfCode": "json_data = [json.loads(line) for line in lines]\n# Convert the list to a JSON formatted string\njson_output = json.dumps(json_data, indent=4)\n# Print the JSON output\nprint(json_output)",
+        "detail": "Python Basic.access_modifier.jsonl_json",
+        "documentation": {}
+    },
+    {
+        "label": "json_output",
+        "kind": 5,
+        "importPath": "Python Basic.access_modifier.jsonl_json",
+        "description": "Python Basic.access_modifier.jsonl_json",
+        "peekOfCode": "json_output = json.dumps(json_data, indent=4)\n# Print the JSON output\nprint(json_output)",
+        "detail": "Python Basic.access_modifier.jsonl_json",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Python Basic.collection.collection",
+        "description": "Python Basic.collection.collection",
+        "peekOfCode": "a = \"aaaaabbbcccc\"\nmy_counter =Counter(a)",
+        "detail": "Python Basic.collection.collection",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "kind": 5,
+        "importPath": "Python Basic.dictionary.02_dictionary",
+        "description": "Python Basic.dictionary.02_dictionary",
+        "peekOfCode": "Dict = {1: 'Geeks', 2: 'For',\n        3: {'A': 'Welcome', 'B': 'To', 'C': 'Geeks'}}\nprint(Dict)",
+        "detail": "Python Basic.dictionary.02_dictionary",
+        "documentation": {}
+    },
+    {
+        "label": "employe",
+        "kind": 6,
+        "importPath": "Python Basic.function.01_function",
+        "description": "Python Basic.function.01_function",
+        "peekOfCode": "class employe:\n    def takeInformation(self, name, age, address):\n        self.name = name\n        self.age = age\n        self.address = address\n    def __init__(self, father_name):\n        self.father = father_name\n    def showInformation(self):\n        print(\"The name of employe is \", self.name)\n        print(\"The age of employe is \", self.age)",
+        "detail": "Python Basic.function.01_function",
+        "documentation": {}
+    },
+    {
+        "label": "arjun",
+        "kind": 5,
+        "importPath": "Python Basic.function.01_function",
+        "description": "Python Basic.function.01_function",
+        "peekOfCode": "arjun = employe(\"Ram bhadur\")\narjun.takeInformation(\"Arjun\", 21, \"Dhading \")\narjun.showInformation()",
+        "detail": "Python Basic.function.01_function",
+        "documentation": {}
+    },
+    {
+        "label": "power",
+        "kind": 2,
+        "importPath": "Python Basic.function.02_recursion",
+        "description": "Python Basic.function.02_recursion",
+        "peekOfCode": "def power(n, p):\n    if p == 0:\n        return 1\n    elif p == 1:\n        return n\n    else:\n        return n*power(n, p-1)\nprint(power(5, 2))",
+        "detail": "Python Basic.function.02_recursion",
+        "documentation": {}
+    },
+    {
+        "label": "myFun",
+        "kind": 2,
+        "importPath": "Python Basic.function.03_function",
+        "description": "Python Basic.function.03_function",
+        "peekOfCode": "def myFun(*arg):\n    for arg in arg:\n        print(arg)\nmyFun('Hello', 'Welcome', 'to', 'GeeksforGeeks')\ndef myFun(**kwargs):\n    for key, value in kwargs.items():\n        print(\"%s == %s\" % (key, value))\n# Driver code\nmyFun(first='Geeks', mid='for', last='Geeks')",
+        "detail": "Python Basic.function.03_function",
+        "documentation": {}
+    },
+    {
+        "label": "myFun",
+        "kind": 2,
+        "importPath": "Python Basic.function.03_function",
+        "description": "Python Basic.function.03_function",
+        "peekOfCode": "def myFun(**kwargs):\n    for key, value in kwargs.items():\n        print(\"%s == %s\" % (key, value))\n# Driver code\nmyFun(first='Geeks', mid='for', last='Geeks')",
+        "detail": "Python Basic.function.03_function",
+        "documentation": {}
+    },
+    {
+        "label": "funct",
+        "kind": 2,
+        "importPath": "Python Basic.function.04_yeildsfunction",
+        "description": "Python Basic.function.04_yeildsfunction",
+        "peekOfCode": "def funct():\n    return f\"my name is arjun\"\ndef simpleGeneratorFun():\n    yield 'hari'\n    yield 'ram'\n    yield funct()\n# Driver code to check above generator function\nfor value in simpleGeneratorFun():\n    print(value)",
+        "detail": "Python Basic.function.04_yeildsfunction",
+        "documentation": {}
+    },
+    {
+        "label": "simpleGeneratorFun",
+        "kind": 2,
+        "importPath": "Python Basic.function.04_yeildsfunction",
+        "description": "Python Basic.function.04_yeildsfunction",
+        "peekOfCode": "def simpleGeneratorFun():\n    yield 'hari'\n    yield 'ram'\n    yield funct()\n# Driver code to check above generator function\nfor value in simpleGeneratorFun():\n    print(value)",
+        "detail": "Python Basic.function.04_yeildsfunction",
+        "documentation": {}
+    },
+    {
+        "label": "Parent",
+        "kind": 6,
+        "importPath": "Python Basic.function.06_super_method",
+        "description": "Python Basic.function.06_super_method",
+        "peekOfCode": "class Parent:\n    def __init__(self):\n        print(\"My name is arjun nepali\")\n    def parent_mesage(self,message):\n        print(\"This is parent function\",message)\nclass Child(Parent):\n    def __init__(self):\n        pass\n# x=Parent(\"Hello , and welcome!\")\nx=Child()",
+        "detail": "Python Basic.function.06_super_method",
+        "documentation": {}
+    },
+    {
+        "label": "Child",
+        "kind": 6,
+        "importPath": "Python Basic.function.06_super_method",
+        "description": "Python Basic.function.06_super_method",
+        "peekOfCode": "class Child(Parent):\n    def __init__(self):\n        pass\n# x=Parent(\"Hello , and welcome!\")\nx=Child()\nx.parent_mesage(\"my name\")\n# x.parent_mesage()",
+        "detail": "Python Basic.function.06_super_method",
+        "documentation": {}
+    },
+    {
+        "label": "function",
+        "kind": 2,
+        "importPath": "Python Basic.list.01_list",
+        "description": "Python Basic.list.01_list",
+        "peekOfCode": "def function(newlist):\n    size = len(newlist)\n    temp = newlist[0]\n    newlist[0] = newlist[size-1]\n    newlist[size-1] = temp\n    return newlist\nlist2 = [4, 3, 5, 6, 7]\na = function(list2)\nprint(a)",
+        "detail": "Python Basic.list.01_list",
+        "documentation": {}
+    },
+    {
+        "label": "list1",
+        "kind": 5,
+        "importPath": "Python Basic.list.01_list",
+        "description": "Python Basic.list.01_list",
+        "peekOfCode": "list1 = [1, 2, 3, 4]\nprint(list1)\na = list1[0]\nlist1[0] = list1[3]\nlist1[3] = a\nprint(list1)\ndef function(newlist):\n    size = len(newlist)\n    temp = newlist[0]\n    newlist[0] = newlist[size-1]",
+        "detail": "Python Basic.list.01_list",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Python Basic.list.01_list",
+        "description": "Python Basic.list.01_list",
+        "peekOfCode": "a = list1[0]\nlist1[0] = list1[3]\nlist1[3] = a\nprint(list1)\ndef function(newlist):\n    size = len(newlist)\n    temp = newlist[0]\n    newlist[0] = newlist[size-1]\n    newlist[size-1] = temp\n    return newlist",
+        "detail": "Python Basic.list.01_list",
+        "documentation": {}
+    },
+    {
+        "label": "list1[0]",
+        "kind": 5,
+        "importPath": "Python Basic.list.01_list",
+        "description": "Python Basic.list.01_list",
+        "peekOfCode": "list1[0] = list1[3]\nlist1[3] = a\nprint(list1)\ndef function(newlist):\n    size = len(newlist)\n    temp = newlist[0]\n    newlist[0] = newlist[size-1]\n    newlist[size-1] = temp\n    return newlist\nlist2 = [4, 3, 5, 6, 7]",
+        "detail": "Python Basic.list.01_list",
+        "documentation": {}
+    },
+    {
+        "label": "list1[3]",
+        "kind": 5,
+        "importPath": "Python Basic.list.01_list",
+        "description": "Python Basic.list.01_list",
+        "peekOfCode": "list1[3] = a\nprint(list1)\ndef function(newlist):\n    size = len(newlist)\n    temp = newlist[0]\n    newlist[0] = newlist[size-1]\n    newlist[size-1] = temp\n    return newlist\nlist2 = [4, 3, 5, 6, 7]\na = function(list2)",
+        "detail": "Python Basic.list.01_list",
+        "documentation": {}
+    },
+    {
+        "label": "list2",
+        "kind": 5,
+        "importPath": "Python Basic.list.01_list",
+        "description": "Python Basic.list.01_list",
+        "peekOfCode": "list2 = [4, 3, 5, 6, 7]\na = function(list2)\nprint(a)",
+        "detail": "Python Basic.list.01_list",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Python Basic.list.01_list",
+        "description": "Python Basic.list.01_list",
+        "peekOfCode": "a = function(list2)\nprint(a)",
+        "detail": "Python Basic.list.01_list",
+        "documentation": {}
+    },
+    {
+        "label": "myList",
+        "kind": 5,
+        "importPath": "Python Basic.list.03_list",
+        "description": "Python Basic.list.03_list",
+        "peekOfCode": "myList = [\"arjun\",\"nepali\",123,\"nepal\"]\na = myList[1:3]\nprint(a)",
+        "detail": "Python Basic.list.03_list",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Python Basic.list.03_list",
+        "description": "Python Basic.list.03_list",
+        "peekOfCode": "a = myList[1:3]\nprint(a)",
+        "detail": "Python Basic.list.03_list",
+        "documentation": {}
+    },
+    {
+        "label": "odds",
+        "kind": 5,
+        "importPath": "Python Basic.set.01_example",
+        "description": "Python Basic.set.01_example",
+        "peekOfCode": "odds = {1,3,5,7,7,9}\nevens ={0,2,8,4,6,8,8}\nprint(evens)\nu= odds.union(evens)\nprint(u)\nu = odds.difference(evens)",
+        "detail": "Python Basic.set.01_example",
+        "documentation": {}
+    },
+    {
+        "label": "u",
+        "kind": 5,
+        "importPath": "Python Basic.set.01_example",
+        "description": "Python Basic.set.01_example",
+        "peekOfCode": "u = odds.difference(evens)",
+        "detail": "Python Basic.set.01_example",
+        "documentation": {}
+    },
+    {
+        "label": "rev_sentence",
+        "kind": 2,
+        "importPath": "Python Basic.string.02_string",
+        "description": "Python Basic.string.02_string",
+        "peekOfCode": "def rev_sentence(sentence):\n    words = sentence.split()\n    reversed_sentences = \" \".join(reversed(words))\n    print(reversed_sentences)\nif __name__==\"__main__\":\n    a=str(input(\"Enter the string\"))\nrev_sentence(a)",
+        "detail": "Python Basic.string.02_string",
+        "documentation": {}
+    },
+    {
+        "label": "any_string",
+        "kind": 5,
+        "importPath": "Python Basic.string.03_remove_letters",
+        "description": "Python Basic.string.03_remove_letters",
+        "peekOfCode": "any_string = \"Geeks for Geeks substring \"\nstart = 0\nend = 1000\nprint(any_string.index('substring', start, end))",
+        "detail": "Python Basic.string.03_remove_letters",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 5,
+        "importPath": "Python Basic.string.03_remove_letters",
+        "description": "Python Basic.string.03_remove_letters",
+        "peekOfCode": "start = 0\nend = 1000\nprint(any_string.index('substring', start, end))",
+        "detail": "Python Basic.string.03_remove_letters",
+        "documentation": {}
+    },
+    {
+        "label": "end",
+        "kind": 5,
+        "importPath": "Python Basic.string.03_remove_letters",
+        "description": "Python Basic.string.03_remove_letters",
+        "peekOfCode": "end = 1000\nprint(any_string.index('substring', start, end))",
+        "detail": "Python Basic.string.03_remove_letters",
+        "documentation": {}
+    },
+    {
+        "label": "convert_number",
+        "kind": 2,
+        "importPath": "Python Basic.string.04_string_to_other",
+        "description": "Python Basic.string.04_string_to_other",
+        "peekOfCode": "def convert_number(number):\n    decimal = str(number)\n    octal = oct(number)\n    hexadecimal = hex(number).upper().replace(\"X\",\"x\")\n    binary = bin(number)\n    return decimal,octal,hexadecimal,binary\nif __name__==\"__main__\":\n    decimal,octal,hexadecimal,binary = convert_number(334)\n    print(decimal)\n    print(octal)",
+        "detail": "Python Basic.string.04_string_to_other",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "Python Basic.arbitarypositional",
+        "description": "Python Basic.arbitarypositional",
+        "peekOfCode": "def add(*num,**num1):\n    sum=0\n    for i in num:\n        sum=sum+i\n    print(f\"sum is {sum}\")\n    print(num1)\nadd(3,4,5,7,a=12 ,name=\"arjun\",cast=\"nepali\")",
+        "detail": "Python Basic.arbitarypositional",
+        "documentation": {}
+    },
+    {
+        "label": "outerfuntion",
+        "kind": 2,
+        "importPath": "Python Basic.functio_inside_function",
+        "description": "Python Basic.functio_inside_function",
+        "peekOfCode": "def outerfuntion(show):\n    print(\"I am a outer function\",show())\ndef innerfunction():\n    return \"my name is arjun\"\nouterfuntion(innerfunction)",
+        "detail": "Python Basic.functio_inside_function",
+        "documentation": {}
+    },
+    {
+        "label": "innerfunction",
+        "kind": 2,
+        "importPath": "Python Basic.functio_inside_function",
+        "description": "Python Basic.functio_inside_function",
+        "peekOfCode": "def innerfunction():\n    return \"my name is arjun\"\nouterfuntion(innerfunction)",
+        "detail": "Python Basic.functio_inside_function",
+        "documentation": {}
+    },
+    {
+        "label": "int_to_roman",
+        "kind": 2,
+        "importPath": "Python Basic.integer_to_roman",
+        "description": "Python Basic.integer_to_roman",
+        "peekOfCode": "def int_to_roman(num:int)->str:\n    value_to_roman = [\n        (1000, 'M'), (900, 'CM'), (500, 'D'), (400, 'CD'),\n        (100, 'C'), (90, 'XC'), (50, 'L'), (40, 'XL'),\n        (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I')\n    ]\n    roman=[]\n    for value,symbol in value_to_roman:\n        if num>=value:\n            num=num-value",
+        "detail": "Python Basic.integer_to_roman",
+        "documentation": {}
+    },
+    {
+        "label": "roman_to_int",
+        "kind": 2,
+        "importPath": "Python Basic.roman_to_int",
+        "description": "Python Basic.roman_to_int",
+        "peekOfCode": "def roman_to_int(s:str)->int:\n    roman_to_value = {\n        'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000\n    }\n    total = 0\n    prev_value = 0\n    for char in reversed(s):\n        value = roman_to_value[char]\n        if value < prev_value:\n            total -= value",
+        "detail": "Python Basic.roman_to_int",
+        "documentation": {}
+    },
+    {
+        "label": "new_list",
+        "kind": 5,
+        "importPath": "Python Basic.starts_wit_prefix",
+        "description": "Python Basic.starts_wit_prefix",
+        "peekOfCode": "new_list = list1 +list2\nnew_list.sort()\nprint(new_list)",
+        "detail": "Python Basic.starts_wit_prefix",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 2,
+        "importPath": "Python Basic.types_of_arguments",
+        "description": "Python Basic.types_of_arguments",
+        "peekOfCode": "def User(name,email,password=123):\n    print(f\"Hi {name}\")\n    print(f\"This is your email {email}\")\n    print(f\"This is your password {password}\")\nUser(\"Arjun\",email=\"nepaliarjun049@gmail.com\")\nlist =[1,2,3,4,5]\nprint(list)\nfor i in range(1,len(list),2):\n    print(i)",
+        "detail": "Python Basic.types_of_arguments",
+        "documentation": {}
+    },
+    {
+        "label": "CharityEvent",
+        "kind": 6,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.CharityEvent",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.CharityEvent",
+        "peekOfCode": "class CharityEvent(Events):\n    eventname = ''\n    eventcode = ''\n    eventTotalAvaibleSeat = 10\n    eventType = ''\n    def createEvent(self):\n        self.eventType = \"Charity\"\n        print(\"You are creating a Charity Event\")\n        self.eventname = input(\"Enter Event Name: \")\n        self.eventcode = input(\"Enter Event Code: \")",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.CharityEvent",
+        "documentation": {}
+    },
+    {
+        "label": "bookEventTicket",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def bookEventTicket():\n    ticket = Ticket()\n    ticket.bookTicket()\n    if ticket.check():\n        print(\"Warning : You Already Booked A Seat\")\n        input('Press Enter To Return')\n    elif ticket.getBookedSeatCount() >= ticket.gettotalticketcount():\n        print(\"Warning : All Ticket Sold Out\")\n        input('Press Enter To Return')\n    else:",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "saveTicketDetails",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def saveTicketDetails(ticket):\n    file = pathlib.Path(\"tickets.data\")\n    if file.exists():\n        infile = open('tickets.data', 'rb')\n        if os.path.getsize(file) > 0:\n            oldlist = pickle.load(infile)\n            oldlist.append(ticket)\n            infile.close()\n            os.remove('tickets.data')\n        else:",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "getTicketDetails",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def getTicketDetails():\n    file = pathlib.Path(\"tickets.data\")\n    if os.path.getsize(file) > 0:\n        infile = open('tickets.data', 'rb')\n        ticketdetails = pickle.load(infile)\n        print(\"---------------TICKET DETAILS---------------------\")\n        t = PrettyTable(['T-Ref', 'C-Name', 'C-Email', 'E-Code'])\n        for ticket in ticketdetails :\n            t.add_row([ticket.reference, ticket.name, ticket.email, ticket.event])\n        print(t)",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "createCharityEvent",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def createCharityEvent():\n    event = CharityEvent()\n    event.createEvent()\n    saveEventDetails(event)\ndef createPartyEvent():\n    event = PartyEvent()\n    event.createEvent()\n    saveEventDetails(event)\ndef createNetworkingEvent():\n    event = NetworkingEvent()",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "createPartyEvent",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def createPartyEvent():\n    event = PartyEvent()\n    event.createEvent()\n    saveEventDetails(event)\ndef createNetworkingEvent():\n    event = NetworkingEvent()\n    event.createEvent()\n    saveEventDetails(event)\ndef createWorkshopEvent():\n    event = WorkshopEvent()",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "createNetworkingEvent",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def createNetworkingEvent():\n    event = NetworkingEvent()\n    event.createEvent()\n    saveEventDetails(event)\ndef createWorkshopEvent():\n    event = WorkshopEvent()\n    event.createEvent()\n    saveEventDetails(event)\n# Save Event Details to File\ndef saveEventDetails(event):",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "createWorkshopEvent",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def createWorkshopEvent():\n    event = WorkshopEvent()\n    event.createEvent()\n    saveEventDetails(event)\n# Save Event Details to File\ndef saveEventDetails(event):\n    file = pathlib.Path(\"events2.data\")\n    if file.exists():\n        infile = open('events2.data', 'rb')\n        if os.path.getsize(file) > 0:",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "saveEventDetails",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def saveEventDetails(event):\n    file = pathlib.Path(\"events2.data\")\n    if file.exists():\n        infile = open('events2.data', 'rb')\n        if os.path.getsize(file) > 0:\n            oldlist = pickle.load(infile)\n            oldlist.append(event)\n            infile.close()\n            os.remove('events2.data')\n        else:",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "getEventsDetails",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def getEventsDetails():\n    file = pathlib.Path(\"events2.data\")\n    if file.exists ():\n        infile = open('events2.data','rb')\n        if os.path.getsize(file) > 0:\n            eventsdetails = pickle.load(infile)\n            print(\"---------------EVENT DETAILS---------------------\")\n            t = PrettyTable(['E-Name', 'E-Code', 'E-Total-Seats', 'E-Type'])\n            for events in eventsdetails :\n                t.add_row([events.eventname, events.eventcode, events.eventTotalAvaibleSeat, events.eventType])",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "getEventsSummary",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def getEventsSummary():\n    filetickets = pathlib.Path(\"tickets.data\")\n    if os.path.getsize(filetickets) > 0 :\n        infiletickets = open('tickets.data', 'rb')\n        ticketdetails = pickle.load(infiletickets)\n        fileEvents = pathlib.Path(\"events2.data\")\n        if fileEvents.exists ():\n            infileEvents = open('events2.data','rb')\n            eventdetails = pickle.load(infileEvents)\n            print(\"---------------REPORTS---------------------\")",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "createEvents",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def createEvents():\n    ch = ''\n    num = 0\n    while ch != 8:\n        print(\"\\t\\t\\t\\t-----------------------\")\n        print(\"\\t\\t\\t\\tEVENT MANAGEMENT SYSTEM\")\n        print(\"\\t\\t\\t\\t-----------------------\")\n        print(\"\\tEVENT CREATION MENU\")\n        print(\"\\t1. CREATE CHARITY EVENT\")\n        print(\"\\t2. CREATE NETWORKING EVENT\")",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "mainMenu",
+        "kind": 2,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "peekOfCode": "def mainMenu():\n    ch = ''\n    num = 0\n    while ch != 8:\n        print(\"\\t\\t\\t\\t-----------------------\")\n        print(\"\\t\\t\\t\\tEVENT MANAGEMENT SYSTEM\")\n        print(\"\\t\\t\\t\\t-----------------------\")\n        print(\"\\tMAIN MENU\")\n        print(\"\\t1. BOOK TICKET\")\n        print(\"\\t2. VIEW TICKETS\")",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.DriverClass",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "kind": 6,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.Event",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.Event",
+        "peekOfCode": "class Event:\n    eventname = ''\n    eventcode = ''\n    eventTotalAvaibleSeat = 10\n    def createEvent(self):\n        self.eventname= input(\"Enter Event Name: \")\n        self.eventcode = input(\"Enter Event Code: \")\n        self.eventTotalAvaibleSeat = input(\"Enter Event Total Availble Seats: \")\n        print(\"\\n\\n ------> Event Created!\")",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.Event",
+        "documentation": {}
+    },
+    {
+        "label": "Events",
+        "kind": 6,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.Events",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.Events",
+        "peekOfCode": "class Events(ABC):\n    eventname = ''\n    eventcode = ''\n    eventTotalAvaibleSeat = 10\n    eventType = ''\n    @abstractmethod\n    def createEvent(self):\n        pass",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.Events",
+        "documentation": {}
+    },
+    {
+        "label": "NetworkingEvent",
+        "kind": 6,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.NetworkingEvent",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.NetworkingEvent",
+        "peekOfCode": "class NetworkingEvent(Events):\n    eventname = ''\n    eventcode = ''\n    eventTotalAvaibleSeat = 10\n    eventType = ''\n    def createEvent(self):\n        self.eventType = \"Networking\"\n        print(\"You are creating a Networking Event\")\n        self.eventname = input(\"Enter Event Name: \")\n        self.eventcode = input(\"Enter Event Code: \")",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.NetworkingEvent",
+        "documentation": {}
+    },
+    {
+        "label": "PartyEvent",
+        "kind": 6,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.PartyEvent",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.PartyEvent",
+        "peekOfCode": "class PartyEvent(Events):\n    eventname = ''\n    eventcode = ''\n    eventTotalAvaibleSeat = 10\n    eventType = ''\n    def createEvent(self):\n        self.eventType = \"Party\"\n        print(\"You are creating a Party Event\")\n        self.eventname = input(\"Enter Event Name: \")\n        self.eventcode = input(\"Enter Event Code: \")",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.PartyEvent",
+        "documentation": {}
+    },
+    {
+        "label": "Ticket",
+        "kind": 6,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.Ticket",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.Ticket",
+        "peekOfCode": "class Ticket:\n    name = ''\n    email = ''\n    event = ''\n    reference = 200000\n    def bookTicket(self):\n        self.name= input(\"Enter Customer Name: \")\n        self.email = input(\"Enter Customer Email: \")\n        file = pathlib.Path(\"events2.data\")\n        if file.exists():",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.Ticket",
+        "documentation": {}
+    },
+    {
+        "label": "WorkshopEvent",
+        "kind": 6,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.src.WorkshopEvent",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.src.WorkshopEvent",
+        "peekOfCode": "class WorkshopEvent(Events):\n    eventname = ''\n    eventcode = ''\n    eventTotalAvaibleSeat = 10\n    eventType = ''\n    def createEvent(self):\n        self.eventType = \"Workshop\"\n        print(\"You are creating a Workshop Event\")\n        self.eventname = input(\"Enter Event Name: \")\n        self.eventcode = input(\"Enter Event Code: \")",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.src.WorkshopEvent",
+        "documentation": {}
+    },
+    {
+        "label": "MyTestCase",
+        "kind": 6,
+        "importPath": "python module.437-project-1.3.tar.437-project-1.3.tests.test_generator",
+        "description": "python module.437-project-1.3.tar.437-project-1.3.tests.test_generator",
+        "peekOfCode": "class MyTestCase(unittest.TestCase):\n    @mock.patch('src.CharityEvent.input', create=True)\n    def test_create_charity_event(self, mocked_input):\n        mocked_input.side_effect = [\"CharityEvent\", \"500\", \"10\"]\n        CharityEvent.createEvent(self)\n        expected_event = [\"Charity\", \"CharityEvent\", \"500\", \"10\"]\n        self.assertEqual([self.eventType, self.eventname, self.eventcode, self.eventTotalAvaibleSeat], expected_event)\n    @mock.patch('src.NetworkingEvent.input', create=True)\n    def test_create_networking_event(self, mocked_input):\n        mocked_input.side_effect = [\"NetworkingEvent\", \"501\", \"10\"]",
+        "detail": "python module.437-project-1.3.tar.437-project-1.3.tests.test_generator",
+        "documentation": {}
+    },
+    {
+        "label": "r",
+        "kind": 5,
+        "importPath": "pythone module.Http request.01_Http_retuest",
+        "description": "pythone module.Http request.01_Http_retuest",
+        "peekOfCode": "r = requests.get('https://corona.askbhunte.com/api/v1/data/nepal')\nprint(r.text)\nprint(r.status_code)\n# # post request\n# url =\"www.something.com\"\n# data = {\n#     \"p1\":2,\n#     \"p2\":4\n# }\n# r2 =requests.post(url=url,data=data)",
+        "detail": "pythone module.Http request.01_Http_retuest",
+        "documentation": {}
+    },
+    {
+        "label": "list",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.01_numpy",
+        "description": "pythone module.NumPy.01_numpy",
+        "peekOfCode": "list = [1, 2, 4, 5, 6, 7, 8, 9, 10]\nNumpy_List = np.array(list)\nprint('list')\nNumpy_List1 = np.array({1, 4.2, 35, 34})\nprint(Numpy_List1)\nprint(Numpy_List)",
+        "detail": "pythone module.NumPy.01_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Numpy_List",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.01_numpy",
+        "description": "pythone module.NumPy.01_numpy",
+        "peekOfCode": "Numpy_List = np.array(list)\nprint('list')\nNumpy_List1 = np.array({1, 4.2, 35, 34})\nprint(Numpy_List1)\nprint(Numpy_List)",
+        "detail": "pythone module.NumPy.01_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Numpy_List1",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.01_numpy",
+        "description": "pythone module.NumPy.01_numpy",
+        "peekOfCode": "Numpy_List1 = np.array({1, 4.2, 35, 34})\nprint(Numpy_List1)\nprint(Numpy_List)",
+        "detail": "pythone module.NumPy.01_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "list",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.02_numpy",
+        "description": "pythone module.NumPy.02_numpy",
+        "peekOfCode": "list = range(100)\nprint(\"The size of the list is \", sys.getsizeof(list))\nprint(\"Size of whole list in sthe byte\", sys.getsizeof(list)*len(list))\nN = np.arange(100)\nprint(\"The size of the Numparr is \", N.itemsize)\nprint(\"Size of whole list in sthe byte\", N.size * N.itemsize)",
+        "detail": "pythone module.NumPy.02_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "N",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.02_numpy",
+        "description": "pythone module.NumPy.02_numpy",
+        "peekOfCode": "N = np.arange(100)\nprint(\"The size of the Numparr is \", N.itemsize)\nprint(\"Size of whole list in sthe byte\", N.size * N.itemsize)",
+        "detail": "pythone module.NumPy.02_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "list1",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.03_WhyNumpy",
+        "description": "pythone module.NumPy.03_WhyNumpy",
+        "peekOfCode": "list1 = [1, 2, 3, 4, 5, 6, 7]\nlist2 = [4, 5, 6, 7, 8, 6, 5]\na1 = np.array(list1)\na2 = np.array(list2)\nprint(a1*a2)\n# print(list1*list2)why numpy illlustrate this line",
+        "detail": "pythone module.NumPy.03_WhyNumpy",
+        "documentation": {}
+    },
+    {
+        "label": "list2",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.03_WhyNumpy",
+        "description": "pythone module.NumPy.03_WhyNumpy",
+        "peekOfCode": "list2 = [4, 5, 6, 7, 8, 6, 5]\na1 = np.array(list1)\na2 = np.array(list2)\nprint(a1*a2)\n# print(list1*list2)why numpy illlustrate this line",
+        "detail": "pythone module.NumPy.03_WhyNumpy",
+        "documentation": {}
+    },
+    {
+        "label": "a1",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.03_WhyNumpy",
+        "description": "pythone module.NumPy.03_WhyNumpy",
+        "peekOfCode": "a1 = np.array(list1)\na2 = np.array(list2)\nprint(a1*a2)\n# print(list1*list2)why numpy illlustrate this line",
+        "detail": "pythone module.NumPy.03_WhyNumpy",
+        "documentation": {}
+    },
+    {
+        "label": "a2",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.03_WhyNumpy",
+        "description": "pythone module.NumPy.03_WhyNumpy",
+        "peekOfCode": "a2 = np.array(list2)\nprint(a1*a2)\n# print(list1*list2)why numpy illlustrate this line",
+        "detail": "pythone module.NumPy.03_WhyNumpy",
+        "documentation": {}
+    },
+    {
+        "label": "NumpyList",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.04_indexing",
+        "description": "pythone module.NumPy.04_indexing",
+        "peekOfCode": "NumpyList = np.arange(0, 100, 3)\nNumpyList1 = NumpyList[np.array([3, 4, 6, 7])]\nprint(NumpyList1)\nprint(NumpyList)",
+        "detail": "pythone module.NumPy.04_indexing",
+        "documentation": {}
+    },
+    {
+        "label": "NumpyList1",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.04_indexing",
+        "description": "pythone module.NumPy.04_indexing",
+        "peekOfCode": "NumpyList1 = NumpyList[np.array([3, 4, 6, 7])]\nprint(NumpyList1)\nprint(NumpyList)",
+        "detail": "pythone module.NumPy.04_indexing",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "pythone module.NumPy.05_silcingIndex",
+        "description": "pythone module.NumPy.05_silcingIndex",
+        "peekOfCode": "a = np.arange(20)\nprint(\"\\n Array is:\\n \", a)\n# a[start:stop:step]\nprint(\"\\n a[-8:17:1]  = \", a[-8:17:1])\n# The : operator means all elements till the end.\nprint(\"\\n a[10:]  = \", a[10:])",
+        "detail": "pythone module.NumPy.05_silcingIndex",
+        "documentation": {}
+    },
+    {
+        "label": "txt",
+        "kind": 5,
+        "importPath": "RegEx.01_problem",
+        "description": "RegEx.01_problem",
+        "peekOfCode": "txt = \"my name is arjun\"\nx=re.findall(\"^my.*arjun$\",txt)\nprint(x)",
+        "detail": "RegEx.01_problem",
+        "documentation": {}
+    },
+    {
+        "label": "txt",
+        "kind": 5,
+        "importPath": "RegEx.02_special_sequence",
+        "description": "RegEx.02_special_sequence",
+        "peekOfCode": "txt = \"The rain in Spain\"\n#Check if \"ain\" is present at the beginning of a WORD:\nx = re.findall(r\"\\bin\", txt)\nprint(x)\nif x:\n  print(\"Yes, there is at least one match!\")\nelse:\n  print(\"No match\")",
+        "detail": "RegEx.02_special_sequence",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "RegEx.02_special_sequence",
+        "description": "RegEx.02_special_sequence",
+        "peekOfCode": "x = re.findall(r\"\\bin\", txt)\nprint(x)\nif x:\n  print(\"Yes, there is at least one match!\")\nelse:\n  print(\"No match\")",
+        "detail": "RegEx.02_special_sequence",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 6,
+        "importPath": "RegEx.03_plaindrome",
+        "description": "RegEx.03_plaindrome",
+        "peekOfCode": "class solution(object):\n    def isplaindrome(self,x):\n        while x!=0:\ns = solution()\ns.isplaindrome(126)",
+        "detail": "RegEx.03_plaindrome",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "RegEx.03_plaindrome",
+        "description": "RegEx.03_plaindrome",
+        "peekOfCode": "s = solution()\ns.isplaindrome(126)",
+        "detail": "RegEx.03_plaindrome",
+        "documentation": {}
+    },
+    {
+        "label": "extract_name_from_resume",
+        "kind": 2,
+        "importPath": "RegEx.04_name_extraction",
+        "description": "RegEx.04_name_extraction",
+        "peekOfCode": "def extract_name_from_resume(text):\n    name = None\n    # Use regex pattern to find a potential name\n    pattern = r\"(\\b[A-Z][a-z]+\\b)\\s(\\b[A-Z][a-z]+\\b)\"\n    match = re.search(pattern, text)\n    if match:\n        name = match.group()\n    return name\nif __name__ == '__main__':\n    text = \"ARJUN NEPALI Education Pokhara University Cosmos college of Management and technology 2019 - 2024 Computer Engineering maintaining CGPA 3.5(till 6 sem) About Me a with Computer A motivated and diligent final Engineering year student genuine enthusiasm for AI/ML. Possessing a basic AI/ML concepts, I am eager to expand my understanding through hands- on projects and coursework. knowledge of 9862569729/9813877392 nepaliarjun049@gmail.com Projects https://github.com/Arrjoon arjunnepali.infinityfreeapp.com Multivendor Ecommerce https://www.linkedin.com/in/a rjun-nepali-32b876244/ Hard Skills C,C++ python Django OOP programming Machine learning concept pandas,numpy Soft Skills Communication Positive learning attitude Teamwork Time management Web App which integrate payment gateway Khalti. manage multiple vendor and users. Customer can add to cart and place order. Vendor can create account and sell their product. vendor can see their particular own product order. [https://github.com/Arrjoon/MultiVendorEcommerceDj ango.git] Ecommerce This application based on single vendor application Searching functionality managed. Authentication and authorization handled. github link [https://github.com/Arrjoon/Ecommerce.git] Hospital Management System This application have many feature related to hospital. Doctor and patient managed. Patient can take appointment of Doctors. [https://github.com/Arrjoon/HospitalManagementSyste m.git] \"",
+        "detail": "RegEx.04_name_extraction",
+        "documentation": {}
+    },
+    {
+        "label": "extract_email_from_resume",
+        "kind": 2,
+        "importPath": "RegEx.05_email_extraction",
+        "description": "RegEx.05_email_extraction",
+        "peekOfCode": "def extract_email_from_resume(text):\n    email = None\n    # Use regex pattern to find a potential email address\n    pattern = r\"\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\\b\"\n    match = re.search(pattern, text)\n    if match:\n        email = match.group()\n    return email\nif __name__ == '__main__':\n    text ='ARJUN NEPALI Education Pokhara University Cosmos college of Management and technology 2019 - 2024 Computer Engineering maintaining CGPA 3.5(till 6 sem) About Me a with Computer A motivated and diligent final Engineering year student genuine enthusiasm for AI/ML. Possessing a basic AI/ML concepts, I am eager to expand my understanding through hands- on projects and coursework. knowledge of 9862569729/9813877392 nepaliarjun049@gmail.com Projects https://github.com/Arrjoon arjunnepali.infinityfreeapp.com Multivendor Ecommerce https://www.linkedin.com/in/a rjun-nepali-32b876244/ Hard Skills C,C++ python Django OOP programming Machine learning concept pandas,numpy Soft Skills Communication Positive learning attitude Teamwork Time management Web App which integrate payment gateway Khalti. manage multiple vendor and users. Customer can add to cart and place order. Vendor can create account and sell their product. vendor can see their particular own product order. [https://github.com/Arrjoon/MultiVendorEcommerceDj ango.git] Ecommerce This application based on single vendor application Searching functionality managed. Authentication and authorization handled. github link [https://github.com/Arrjoon/Ecommerce.git] Hospital Management System This application have many feature related to hospital. Doctor and patient managed. Patient can take appointment of Doctors. [https://github.com/Arrjoon/HospitalManagementSyste m.git]'",
+        "detail": "RegEx.05_email_extraction",
+        "documentation": {}
+    },
+    {
+        "label": "extract_skills_from_resume",
+        "kind": 2,
+        "importPath": "RegEx.06_skills_extraction",
+        "description": "RegEx.06_skills_extraction",
+        "peekOfCode": "def extract_skills_from_resume(text, skills_list):\n    skills = []\n    # Search for skills in the resume text\n    for skill in skills_list:\n        pattern = r\"\\b{}\\b\".format(re.escape(skill))\n        match = re.search(pattern, text, re.IGNORECASE)\n        if match:\n            skills.append(skill)\n    return skills\nif __name__ == '__main__':",
+        "detail": "RegEx.06_skills_extraction",
+        "documentation": {}
+    },
+    {
+        "label": "extract_contact_number_from_resume",
+        "kind": 2,
+        "importPath": "RegEx.07_mobile_number_extraction",
+        "description": "RegEx.07_mobile_number_extraction",
+        "peekOfCode": "def extract_contact_number_from_resume(text):\n    contact_number = None\n    # Use regex pattern to find a potential contact number\n    pattern = r\"\\b(?:\\+?\\d{1,3}[-.\\s]?)?\\(?\\d{3}\\)?[-.\\s]?\\d{3}[-.\\s]?\\d{4}\\b\"\n    match = re.search(pattern, text)\n    if match:\n        contact_number = match.group()\n    return contact_number\nif __name__ == '__main__':\n    text = \"ARJUN NEPALI Education Pokhara University Cosmos college of Management and technology 2019 - 2024 Computer Engineering maintaining CGPA 3.5(till 6 sem) About Me a with Computer A motivated and diligent final Engineering year student genuine enthusiasm for AI/ML. Possessing a basic AI/ML concepts, I am eager to expand my understanding through hands- on projects and coursework. knowledge of 9862569729/9813877392 nepaliarjun049@gmail.com Projects https://github.com/Arrjoon arjunnepali.infinityfreeapp.com Multivendor Ecommerce https://www.linkedin.com/in/a rjun-nepali-32b876244/ Hard Skills C,C++ python Django OOP programming Machine learning concept pandas,numpy Soft Skills Communication Positive learning attitude Teamwork Time management Web App which integrate payment gateway Khalti. manage multiple vendor and users. Customer can add to cart and place order. Vendor can create account and sell their product. vendor can see their particular own product order. [https://github.com/Arrjoon/MultiVendorEcommerceDj ango.git] Ecommerce This application based on single vendor application Searching functionality managed. Authentication and authorization handled. github link [https://github.com/Arrjoon/Ecommerce.git] Hospital Management System This application have many feature related to hospital. Doctor and patient managed. Patient can take appointment of Doctors. [https://github.com/Arrjoon/HospitalManagementSyste m.git] \"",
+        "detail": "RegEx.07_mobile_number_extraction",
+        "documentation": {}
+    },
+    {
+        "label": "extract_education_from_resume",
+        "kind": 2,
+        "importPath": "RegEx.08_extract_education",
+        "description": "RegEx.08_extract_education",
+        "peekOfCode": "def extract_education_from_resume(text):\n    education = []\n    # Use regex pattern to find education information\n    pattern = r\"(?i)(?:(?:Bachelor|B\\.S\\.|B\\.A\\.|Master|M\\.S\\.|M\\.A\\.|Ph\\.D\\.)\\s(?:[A-Za-z]+\\s)*[A-Za-z]+)\"\n    matches = re.findall(pattern, text)\n    for match in matches:\n        education.append(match.strip())\n    return education\nif __name__ == '__main__':\n    text = \"ARJUN NEPALI Education Pokhara University Cosmos college of Management and technology 2019 - 2024 Computer Engineering maintaining CGPA 3.5(till 6 sem) About Me a with Computer A motivated and diligent final Engineering year student genuine enthusiasm for AI/ML. Possessing a basic AI/ML concepts, I am eager to expand my understanding through hands- on projects and coursework. knowledge of 9862569729/9813877392 nepaliarjun049@gmail.com Projects https://github.com/Arrjoon arjunnepali.infinityfreeapp.com Multivendor Ecommerce https://www.linkedin.com/in/a rjun-nepali-32b876244/ Hard Skills C,C++ python Django OOP programming Machine learning concept pandas,numpy Soft Skills Communication Positive learning attitude Teamwork Time management Web App which integrate payment gateway Khalti. manage multiple vendor and users. Customer can add to cart and place order. Vendor can create account and sell their product. vendor can see their particular own product order. [https://github.com/Arrjoon/MultiVendorEcommerceDj ango.git] Ecommerce This application based on single vendor application Searching functionality managed. Authentication and authorization handled. github link [https://github.com/Arrjoon/Ecommerce.git] Hospital Management System This application have many feature related to hospital. Doctor and patient managed. Patient can take appointment of Doctors. [https://github.com/Arrjoon/HospitalManagementSyste m.git] \"",
+        "detail": "RegEx.08_extract_education",
+        "documentation": {}
+    }
+]
